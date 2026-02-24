@@ -1,7 +1,7 @@
 ---
 name: good-strategy
 description: 'Strategy evaluation and design framework based on Richard Rumelt''s "Good Strategy Bad Strategy" and Michael Porter''s "What Is Strategy?". Use when you need to: (1) evaluate whether a strategy is good or bad, (2) diagnose the core challenge before proposing solutions, (3) build a coherent strategy kernel (diagnosis + guiding policy + coherent actions), (4) stress-test strategic plans with pre-mortem analysis, (5) distinguish strategy from goals, ambitions, or wish lists.'
-license: MIT
+license: CC-BY-SA-4.0
 metadata:
   author: Tomasz Staniak
   version: "1.0.0"

@@ -1,7 +1,7 @@
 ---
 name: continuous-discovery-habits
 description: 'Product discovery framework based on Teresa Torres'' "Continuous Discovery Habits". Use when you need to: (1) build an opportunity solution tree from desired outcomes, (2) identify and prioritize customer opportunities, (3) design assumption tests for product ideas, (4) structure customer interview snapshots, (5) map assumptions to experiments, (6) move from output-driven to outcome-driven product development, (7) map current-state customer experiences, (8) build a weekly discovery habit.'
-license: MIT
+license: CC-BY-SA-4.0
 metadata:
   author: Tomasz Staniak
   version: "1.1.0"

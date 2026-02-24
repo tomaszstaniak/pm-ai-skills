@@ -1,7 +1,7 @@
 ---
 name: first-90-days
 description: 'Leadership transition framework based on Michael D. Watkins'' "The First 90 Days". Use when you need to: (1) plan onboarding for a new leadership or management role, (2) build a 30-60-90 day plan, (3) diagnose the business situation you''re entering (STARS model), (4) plan critical early conversations with your new boss, peers, and team, (5) identify and avoid common transition traps, (6) accelerate time to value in a new role.'
-license: MIT
+license: CC-BY-SA-4.0
 metadata:
   author: Tomasz Staniak
   version: "1.0.0"

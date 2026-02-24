@@ -1,7 +1,7 @@
 ---
 name: escaping-build-trap
 description: 'Product management framework based on Melissa Perri''s "Escaping the Build Trap". Use when you need to: (1) diagnose whether a team is stuck in the build trap (shipping features without outcomes), (2) shift from output-driven to outcome-driven product development, (3) evaluate product manager archetypes and team maturity, (4) design a product strategy that connects company vision to team-level decisions, (5) run a pre-mortem on a product roadmap to detect build-trap patterns.'
-license: MIT
+license: CC-BY-SA-4.0
 metadata:
   author: Tomasz Staniak
   version: "1.0.0"

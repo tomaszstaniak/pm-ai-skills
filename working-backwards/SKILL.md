@@ -1,7 +1,7 @@
 ---
 name: working-backwards
 description: 'Amazon''s Working Backwards product development method based on Colin Bryar and Bill Carr''s "Working Backwards". Use when you need to: (1) write a PR/FAQ document for a new product or feature, (2) validate an idea by defining the customer experience first, (3) stress-test a proposal with pre-mortem analysis, (4) align stakeholders around a product vision, (5) decide whether an idea is worth building before writing code.'
-license: MIT
+license: CC-BY-SA-4.0
 metadata:
   author: Tomasz Staniak
   version: "1.0.0"
