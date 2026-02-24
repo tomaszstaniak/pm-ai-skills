@@ -168,9 +168,8 @@ The methodologies and frameworks referenced in these skills are the intellectual
 - **What Is Strategy?**: Michael E. Porter
 - **Working Backwards**: Colin Bryar, Bill Carr
 
-These skills were created without directly copying or reproducing content from the original books or materials. They are based on:
-- Publicly available information about the methodologies
-- General knowledge embedded in large language models
-- Common industry practices and terminology
+These skills were created from personal reading notes taken from books that were purchased and read in full. Each skill reflects the author's own synthesis, interpretation, and structuring of the material — a process that involved reading, annotating, distilling key frameworks, and formatting them for practical AI use. LLMs and publicly available information about the methodologies also contributed to the final form.
+
+No content was reproduced verbatim from the original books.
 
 We encourage you to purchase and read the original books for the complete, authoritative treatment of each methodology. The skills in this repository are intended as practical aids, not replacements for the source materials.
