@@ -1,5 +1,5 @@
 ---
-name: sales-pitch-dunford
+name: sales-pitch
 description: 'Framework based on April Dunford''s "Sales Pitch". Use when you need to: (1) structure a B2B sales conversation that builds buyer confidence rather than pushing features, (2) develop a pitch narrative grounded in competitive positioning, (3) diagnose why deals are stalling or ending without decisions, (4) train sales teams on a consistent, repeatable pitch structure, (5) translate product positioning into a sales story, (6) help buyers navigate complex markets and evaluate trade-offs, (7) create pitch storyboards with cross-functional teams, (8) extend sales messaging to content, demos, and marketing materials'
 license: CC-BY-SA-4.0
 metadata:

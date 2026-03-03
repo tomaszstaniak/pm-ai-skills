@@ -17,6 +17,8 @@ npx skills add tomaszstaniak/pm-ai-skills/continuous-discovery-habits
 npx skills add tomaszstaniak/pm-ai-skills/escaping-build-trap
 npx skills add tomaszstaniak/pm-ai-skills/first-90-days
 npx skills add tomaszstaniak/pm-ai-skills/good-strategy
+npx skills add tomaszstaniak/pm-ai-skills/positioning-and-pitch
+npx skills add tomaszstaniak/pm-ai-skills/sales-pitch
 npx skills add tomaszstaniak/pm-ai-skills/working-backwards
 ```
 
@@ -28,6 +30,8 @@ npx skills add tomaszstaniak/pm-ai-skills/working-backwards
 | [escaping-build-trap](#escaping-build-trap) | Shift from output-driven feature factories to outcome-driven product teams | [Melissa Perri](https://x.com/lissijean)'s *"Escaping the Build Trap"* |
 | [first-90-days](#first-90-days) | Leadership transition framework: STARS diagnosis, early wins, and the 5 key conversations | [Michael D. Watkins](https://x.com/MichaelDWatkins)' *"The First 90 Days"* |
 | [good-strategy](#good-strategy) | Evaluate and design real strategy using the kernel: diagnosis, guiding policy, coherent actions | [Richard Rumelt](https://x.com/RichardRumelt)'s *"Good Strategy Bad Strategy"* |
+| [positioning-and-pitch](#positioning-and-pitch) | Define product positioning using the five-component framework and translate it into pitches for stakeholders, boards, and buyers | [April Dunford](https://x.com/aprildunford)'s *"Obviously Awesome"* & *"Sales Pitch"* |
+| [sales-pitch](#sales-pitch) | Structure B2B sales conversations that build buyer confidence using the two-phase Setup/Follow-Through model | [April Dunford](https://x.com/aprildunford)'s *"Sales Pitch"* |
 | [working-backwards](#working-backwards) | Amazon's PR/FAQ method for defining customer experience before writing a line of code | Colin Bryar & Bill Carr's *"Working Backwards"* |
 
 ---
@@ -122,6 +126,53 @@ Framework for evaluating, designing, and stress-testing strategies using Rumelt'
 
 ---
 
+### positioning-and-pitch
+
+Combined positioning and pitch framework based on April Dunford's *Obviously Awesome* and *Sales Pitch*. Covers the five components of positioning (competitive alternatives, unique capabilities, differentiated value, best-fit customers, market category), the 10-step positioning process, market category strategies, and the two-phase pitch model — all reframed for PM use. Positioning is the upstream decision that shapes roadmap priorities, stakeholder alignment, and competitive strategy.
+
+**About the author:** [April Dunford](https://x.com/aprildunford) is a positioning consultant and former VP of Marketing who has led go-to-market strategy for over two dozen B2B technology companies. *Obviously Awesome* established the five-component positioning framework from fifteen years of repositioning products at companies ranging from startups to IBM. *Sales Pitch* extends that positioning work into the conversation layer, providing a structured two-phase model for pitches that build confidence and close deals.
+
+**Use when you need to:**
+- Define or evaluate product positioning using the five-component framework
+- Translate positioning into a pitch for exec reviews, board updates, or buyer conversations
+- Choose a market category strategy and understand its product implications
+- Develop differentiated value claims that connect product decisions to market reality
+- Align cross-functional teams around a shared positioning narrative
+- Use positioning as a roadmap filter for feature prioritization
+- Diagnose why your product story isn't landing with customers or stakeholders
+- Connect best-fit customer definition to discovery and segmentation work
+
+**Example prompts:**
+- *"Help me define positioning for our product using the five-component framework. Use positioning-and-pitch skill."*
+- *"We're struggling to differentiate — run our value claims through the 'so what / compared to what' test. Use positioning-and-pitch skill."*
+- *"Should we compete head-to-head, go niche, or create a new category? Help me decide. Use positioning-and-pitch skill."*
+- *"I need to pitch our product strategy to the board. Structure it using the two-phase model. Use positioning-and-pitch skill."*
+
+---
+
+### sales-pitch
+
+Structured sales conversation framework based on April Dunford's two-phase pitch model — Setup (market insight, alternatives, perfect world) and Follow-Through (introduction, differentiated value, proof, objections, the ask). Helps buyers navigate complex markets with confidence rather than pushing features.
+
+**About the author:** [April Dunford](https://x.com/aprildunford) is a positioning consultant and former VP of Marketing who has led go-to-market strategy for over two dozen B2B technology companies. *"Sales Pitch"* extends the positioning framework from her first book *Obviously Awesome* into the sales conversation layer, drawing on her consulting work helping sales teams translate strong positioning into pitches that actually close.
+
+**Use when you need to:**
+- Structure a B2B sales conversation that builds buyer confidence rather than pushing features
+- Develop a pitch narrative grounded in competitive positioning
+- Diagnose why deals are stalling or ending without decisions
+- Translate product positioning into a sales story
+- Help buyers navigate complex markets and evaluate trade-offs
+- Create pitch storyboards with cross-functional teams
+- Extend sales messaging to content, demos, and marketing materials
+
+**Example prompts:**
+- *"Build a sales pitch for our product using the Setup/Follow-Through structure. Use sales-pitch skill."*
+- *"Our deals keep stalling — diagnose our pitch against the common mistakes checklist. Use sales-pitch skill."*
+- *"Help me write the market insight opener for our sales conversation. Use sales-pitch skill."*
+- *"Review this pitch deck — does it follow Dunford's two-phase model? Use sales-pitch skill."*
+
+---
+
 ### working-backwards
 
 Amazon's product development method: start from the customer experience and work backwards to the technology. The centerpiece is the PR/FAQ document — a fictional press release and FAQ written before a single line of code is written.
@@ -166,6 +217,8 @@ The methodologies and frameworks referenced in these skills are the intellectual
 - **The First 90 Days**: Michael D. Watkins
 - **Good Strategy Bad Strategy**: Richard Rumelt
 - **What Is Strategy?**: Michael E. Porter
+- **Obviously Awesome**: April Dunford
+- **Sales Pitch**: April Dunford
 - **Working Backwards**: Colin Bryar, Bill Carr
 
 These skills were created from personal reading notes taken from books that were purchased and read in full. Each skill reflects the author's own synthesis, interpretation, and structuring of the material — a process that involved reading, annotating, distilling key frameworks, and formatting them for practical AI use. LLMs and publicly available information about the methodologies also contributed to the final form.
