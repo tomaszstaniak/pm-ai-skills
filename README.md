@@ -17,6 +17,7 @@ npx skills add tomaszstaniak/pm-ai-skills/continuous-discovery-habits
 npx skills add tomaszstaniak/pm-ai-skills/escaping-build-trap
 npx skills add tomaszstaniak/pm-ai-skills/first-90-days
 npx skills add tomaszstaniak/pm-ai-skills/good-strategy
+npx skills add tomaszstaniak/pm-ai-skills/para-method
 npx skills add tomaszstaniak/pm-ai-skills/positioning-and-pitch
 npx skills add tomaszstaniak/pm-ai-skills/sales-pitch
 npx skills add tomaszstaniak/pm-ai-skills/working-backwards
@@ -32,6 +33,7 @@ npx skills add tomaszstaniak/pm-ai-skills/working-backwards
 | [good-strategy](#good-strategy) | Evaluate and design real strategy using the kernel: diagnosis, guiding policy, coherent actions | [Richard Rumelt](https://x.com/RichardRumelt)'s *"Good Strategy Bad Strategy"* |
 | [positioning-and-pitch](#positioning-and-pitch) | Define product positioning using the five-component framework and translate it into pitches for stakeholders, boards, and buyers | [April Dunford](https://x.com/aprildunford)'s *"Obviously Awesome"* & *"Sales Pitch"* |
 | [sales-pitch](#sales-pitch) | Structure B2B sales conversations that build buyer confidence using the two-phase Setup/Follow-Through model | [April Dunford](https://x.com/aprildunford)'s *"Sales Pitch"* |
+| [para-method](#para-method) | Organize knowledge using PARA (Projects, Areas, Resources, Archives) and the CODE methodology for a Second Brain | [Tiago Forte](https://x.com/fortelabs)' *"The PARA Method"* & *"Building a Second Brain"* |
 | [working-backwards](#working-backwards) | Amazon's PR/FAQ method for defining customer experience before writing a line of code | Colin Bryar & Bill Carr's *"Working Backwards"* |
 
 ---
@@ -126,6 +128,30 @@ Framework for evaluating, designing, and stress-testing strategies using Rumelt'
 
 ---
 
+### para-method
+
+Organize digital information for actionability using the PARA framework (Projects, Areas, Resources, Archives) and the CODE methodology (Capture, Organize, Distill, Express). Build a Second Brain that turns scattered knowledge into a decision-making advantage through progressive summarization and intermediate packets.
+
+**About the author:** [Tiago Forte](https://x.com/fortelabs) is a productivity consultant and founder of Forte Labs, where he teaches the Building a Second Brain methodology to individuals and organizations. *"Building a Second Brain"* articulates the system — CODE methodology, progressive summarization, and intermediate packets — that turns personal knowledge management into active creative output. *"The PARA Method"* provides the organizational framework that structures information by actionability rather than topic.
+
+**Use when you need to:**
+- Organize digital information into Projects, Areas, Resources, and Archives
+- Build a Second Brain for capturing and retrieving knowledge systematically
+- Apply the CODE methodology (Capture, Organize, Distill, Express)
+- Design progressive summarization layers for faster retrieval
+- Create and reuse intermediate packets across projects
+- Connect knowledge to current projects instead of filing by topic
+- Reduce information overload through systematic organization
+- Set up Weekly and Monthly Review habits
+
+**Example prompts:**
+- *"Help me set up a PARA structure for my PM role. Use para-method skill."*
+- *"I have hundreds of notes across tools — help me organize them using PARA. Use para-method skill."*
+- *"How do I apply progressive summarization to my customer interview notes? Use para-method skill."*
+- *"Help me extract intermediate packets from a completed project. Use para-method skill."*
+
+---
+
 ### positioning-and-pitch
 
 Combined positioning and pitch framework based on April Dunford's *Obviously Awesome* and *Sales Pitch*. Covers the five components of positioning (competitive alternatives, unique capabilities, differentiated value, best-fit customers, market category), the 10-step positioning process, market category strategies, and the two-phase pitch model — all reframed for PM use. Positioning is the upstream decision that shapes roadmap priorities, stakeholder alignment, and competitive strategy.
@@ -217,6 +243,8 @@ The methodologies and frameworks referenced in these skills are the intellectual
 - **The First 90 Days**: Michael D. Watkins
 - **Good Strategy Bad Strategy**: Richard Rumelt
 - **What Is Strategy?**: Michael E. Porter
+- **Building a Second Brain**: Tiago Forte
+- **The PARA Method**: Tiago Forte
 - **Obviously Awesome**: April Dunford
 - **Sales Pitch**: April Dunford
 - **Working Backwards**: Colin Bryar, Bill Carr
