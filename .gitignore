@@ -1,1 +1,7 @@
 .DS_Store
+
+# Local eval / development artifacts (not part of the published skills)
+*-workspace/
+desc-optim/
+evals/
+.*.swp

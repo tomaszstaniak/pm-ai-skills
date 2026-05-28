@@ -1,6 +1,6 @@
 ---
 name: escaping-build-trap
-description: 'Product management framework based on Melissa Perri''s "Escaping the Build Trap". Use when you need to: (1) diagnose whether a team is stuck in the build trap (shipping features without outcomes), (2) shift from output-driven to outcome-driven product development, (3) evaluate product manager archetypes and team maturity, (4) design a product strategy that connects company vision to team-level decisions, (5) run a pre-mortem on a product roadmap to detect build-trap patterns.'
+description: 'Product management framework based on Melissa Perri''s "Escaping the Build Trap". Use this skill whenever the user is discussing product strategy, roadmap construction, product team maturity, or symptoms of feature-factory behavior — even if they do not explicitly say "build trap" or "outcome-driven." Triggers include: (1) diagnosing whether a team is stuck shipping features without measuring outcomes, (2) shifting from output-driven to outcome-driven product development, (3) evaluating product manager archetypes (Waiter, Project Manager, Mini-CEO, Strategic) or team maturity, (4) designing a strategy deployment cascade from vision to product initiatives to team-level options, (5) converting a feature roadmap into an outcome roadmap, (6) running a pre-mortem against a quarterly plan to detect build-trap patterns before committing, (7) coaching a PM who is acting as an order-taker for stakeholder requests, (8) writing the case for killing a low-adoption feature.'
 license: CC-BY-SA-4.0
 metadata:
   author: Tomasz Staniak
@@ -54,7 +54,11 @@ The way out is not a process change or a new tool. It's a fundamental shift in h
 
 ## Strategy Deployment: Vision to Action
 
-The build trap exists partly because strategy doesn't flow from vision to execution. Perri's strategy deployment model:
+**Core concept:** Strategy is a cascade, not a directive. It flows from vision (where we are going) through strategic intents (what challenges block us) to product initiatives (what problems to solve) to options (how teams will solve them). Each level sets constraints; it does not prescribe solutions.
+
+**Why it works:** The build trap exists partly because the cascade is broken. Without strategic intents, teams cannot say no to stakeholder requests. Without product initiatives, teams either drift or build whatever is loudest. With the cascade explicit, every team has a clear context for their work and a defensible reason to focus.
+
+Perri's strategy deployment model:
 
 ```
 ┌──────────────────────┐
@@ -101,7 +105,11 @@ The build trap exists partly because strategy doesn't flow from vision to execut
 
 See: [references/strategy-deployment.md](references/strategy-deployment.md)
 
-### Outcome-Based Roadmaps
+## Outcome-Based Roadmaps
+
+**Core concept:** A roadmap is a sequence of *outcomes to achieve*, not features to ship. The feature is the proposed solution; it should remain negotiable until the team has tested its assumptions. The outcome — what customer behavior or business metric will change — is what the team commits to.
+
+**Why it works:** Feature roadmaps lock in solutions before the team has learned anything. They reward shipping over impact and turn the PM into a delivery coordinator. Outcome roadmaps preserve optionality: the team can substitute a better solution as discovery surfaces evidence, while still being accountable for the change in the metric that matters.
 
 Replace feature roadmaps with outcome roadmaps:
 
@@ -111,16 +119,31 @@ Replace feature roadmaps with outcome roadmaps:
 | Q2: Add reporting dashboard | Q2: Increase monthly active usage among managers by 30% |
 | Q3: Mobile app | Q3: Enable 50% of field teams to complete workflows outside the office |
 
+**Key insights:**
+- The outcome must be measurable. "Improve onboarding" is not an outcome; "reduce onboarding time from 2 weeks to 2 days" is.
+- A good outcome is owned by *one* team. If multiple teams must coordinate, the outcome is too coarse.
+- Replace one feature with one outcome at a time. Convert the whole roadmap at once and stakeholders rebel.
+- Set the outcome *before* committing to a solution. Reverse-engineering the outcome after picking the feature is theater.
+
 **How to convert:**
+
 1. For each planned feature, ask: "Why are we building this? What outcome should it drive?"
-2. Replace the feature with the outcome
-3. Let the team discover the best solution (it might not be the originally planned feature)
-4. Define success metrics before starting work
+2. Replace the feature with the outcome.
+3. Let the team discover the best solution — it might not be the originally planned feature.
+4. Define success metrics and a measurement plan before starting work.
+
+**Product applications:**
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Quarterly planning | Frame each quarterly bet as an outcome with a metric delta | "Q1: lift trial-to-paid conversion from 17% to 25%." |
+| Stakeholder management | Translate feature requests into the outcome they would presumably drive | "You want SSO. The outcome is enterprise onboarding under 2 days. Let us bring back the best path to that." |
+| Killing a feature | Use the outcome it was supposed to drive as the evidence | "We shipped X to drive Y. Y has not moved in 6 months. We are deprecating X." |
 
 **Copy patterns:**
-- "Q1 outcome: [measurable customer behavior change]. We'll know we succeeded when [metric] moves from [X] to [Y]."
+- "Q1 outcome: [measurable customer behavior change]. We will know we succeeded when [metric] moves from [X] to [Y]."
 - "We replaced 'Build SSO' with 'Reduce enterprise onboarding from 2 weeks to 2 days.' SSO might be the solution — or something better might emerge."
-- "Our roadmap shows where we're going, not how we'll get there."
+- "Our roadmap shows where we are going, not how we will get there."
 
 **Ethical boundary:** Outcome roadmaps require honest metrics. Never choose metrics that are easy to move but don't reflect real customer value. "Increase page views" is a vanity outcome if it doesn't correlate with customer success.
 

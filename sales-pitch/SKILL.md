@@ -1,6 +1,6 @@
 ---
 name: sales-pitch
-description: 'Framework based on April Dunford''s "Sales Pitch". Use when you need to: (1) structure a B2B sales conversation that builds buyer confidence rather than pushing features, (2) develop a pitch narrative grounded in competitive positioning, (3) diagnose why deals are stalling or ending without decisions, (4) train sales teams on a consistent, repeatable pitch structure, (5) translate product positioning into a sales story, (6) help buyers navigate complex markets and evaluate trade-offs, (7) create pitch storyboards with cross-functional teams, (8) extend sales messaging to content, demos, and marketing materials'
+description: 'Framework based on April Dunford''s "Sales Pitch". Use this skill whenever the user is discussing sales conversations, pitch decks, demos, buyer messaging, or stalled deals — even if they do not explicitly say "sales pitch," "positioning," or "Dunford." Triggers include: (1) structuring a B2B sales conversation that builds buyer confidence rather than pushing features, (2) developing a pitch narrative grounded in competitive positioning, (3) diagnosing why deals are stalling or ending in "no decision," (4) training sales teams on a consistent, repeatable pitch structure, (5) translating product positioning into a sales story, (6) helping buyers navigate complex markets and evaluate trade-offs, (7) creating pitch storyboards with cross-functional teams, (8) extending sales messaging to content, demos, and marketing materials, (9) drafting a deck for a customer demo or first discovery call, (10) responding to "how are you different from X?" in a discovery conversation, (11) rewriting cold outbound that is getting ignored or producing low reply rates, (12) preparing a champion to sell internally to their executive sponsor or buying committee'
 license: CC-BY-SA-4.0
 metadata:
   author: Tomasz Staniak
@@ -77,7 +77,7 @@ See: [references/two-phase-pitch-structure.md](references/two-phase-pitch-struct
 
 ## Market Insight: Opening With Credibility
 
-The first move in every pitch is a market insight — a specific, experience-grounded observation about the problem space that demonstrates you understand the buyer's world better than they might expect from a vendor.
+**Core concept:** The first move in every pitch is a market insight — a specific, experience-grounded observation about the problem space that demonstrates you understand the buyer's world better than they might expect from a vendor. It is the move that earns you the right to keep talking.
 
 **Why it works:** Buyers default to treating sellers as biased sources. Opening with a genuine insight about market dynamics — not a product claim — immediately shifts how they perceive you. You become someone who has seen this problem across many contexts, not someone trying to make a quota. This credibility compounds: everything you say afterward lands with greater weight.
 
@@ -105,7 +105,7 @@ The first move in every pitch is a market insight — a specific, experience-gro
 
 ## Competitive Alternatives: The Honest Market Tour
 
-After establishing your market insight, walk the buyer through the realistic alternatives they face — including the option to do nothing. This is where most sellers panic and either skip the section entirely or use it as an excuse to attack competitors. Both responses damage your credibility.
+**Core concept:** After establishing your market insight, walk the buyer through the realistic alternatives they face — including the option to do nothing. This is where most sellers panic and either skip the section entirely or use it as an excuse to attack competitors. Both responses damage your credibility; an honest tour increases it.
 
 **Why it works:** Buyers will evaluate alternatives with or without your help. If you refuse to discuss them, buyers do it alone — using information that may be outdated, biased by analyst reports, or shaped by a competitor's positioning. By guiding the alternatives discussion yourself, you control which criteria matter, ensure your strengths get surfaced fairly, and build trust that you're focused on the buyer's success rather than your close rate.
 
@@ -136,7 +136,7 @@ See: [references/competitive-alternatives-framing.md](references/competitive-alt
 
 ## Differentiated Value: The Only Claims That Win Deals
 
-Differentiated value is the outcome only you can deliver, compared to what the buyer could achieve with the best available alternative. It is not a feature list, a benefits summary, or a generic value proposition.
+**Core concept:** Differentiated value is the outcome only you can deliver, compared to what the buyer could achieve with the best available alternative. It is not a feature list, a benefits summary, or a generic value proposition — and it is the single most important payload of the Follow-Through.
 
 **Why it works:** When buyers can't distinguish between options, they either choose on price, choose based on existing relationships, or make no decision at all. All three outcomes are losses for you. Precise differentiation gives buyers a concrete, defensible reason to choose you — one they can articulate to their own stakeholders during internal evaluation.
 
@@ -166,7 +166,7 @@ See: [references/differentiated-value-development.md](references/differentiated-
 
 ## Proof: Evidence That Matches the Buyer's Context
 
-Proof in a sales pitch isn't a logo wall or a list of customer names. It's contextually matched evidence — case studies, testimonials, data, and demonstrations — that answers the specific question "would this work for someone like me?"
+**Core concept:** Proof in a sales pitch isn't a logo wall or a list of customer names. It's contextually matched evidence — case studies, testimonials, data, and demonstrations — that answers the specific question "would this work for someone like me?"
 
 **Why it works:** Buyers in complex B2B purchases are fundamentally risk-managing. Generic proof that your product works for large enterprises doesn't help a mid-market buyer; a logo from a different industry doesn't speak to a healthcare buyer. When proof is contextually matched, it directly reduces the perceived risk of the decision — which is the actual barrier to closing.
 
@@ -196,7 +196,7 @@ Proof in a sales pitch isn't a logo wall or a list of customer names. It's conte
 
 ## Building the Pitch Storyboard
 
-A pitch storyboard is the working document that assembles all eight components into a coherent narrative before a single slide is designed. It's a cross-functional artifact, not a sales artifact.
+**Core concept:** A pitch storyboard is the working document that assembles all eight components into a coherent narrative before a single slide is designed. It's a cross-functional artifact, not a sales artifact.
 
 **Why it works:** Pitches built by sales alone tend to overclaim on differentiation (because sales doesn't know what product can and can't do), underclaim on proof (because sales doesn't have access to customer success data), and drift from the company's actual market positioning (because sales adapts messaging to individual deals without coordination). A cross-functional storyboard forces alignment on what's actually true and uniquely valuable — and surfaces disagreements before they reach prospects.
 
@@ -220,6 +220,11 @@ A pitch storyboard is the working document that assembles all eight components i
 | 6 | Proof | What evidence matches this buyer's context? Which format — case study, demo, data, reference — fits best? | Slide + demo |
 | 7 | Objections | What concerns will this buyer raise? What are the honest, complete responses? | Conversation framework |
 | 8 | The Ask | What is the specific next step? Is it clear, low-friction, and appropriately sized for where we are? | Script |
+
+**Copy patterns (facilitation prompts for the working session):**
+- "Before we draft anything, what have we actually learned about this market that a buyer wouldn't already know?"
+- "If a competitor read this differentiated value claim out loud, would they laugh? If not, it's not differentiated yet."
+- "Who is the buyer this pitch is for, in one sentence — and what would make them say 'that's exactly us'?"
 
 **Ethical boundary:** Storyboards should reflect what your product and company actually deliver. The cross-functional process is an opportunity to pressure-test claims against reality — use it. A storyboard built on aspirational rather than current capabilities sets up sales reps to overpromise and customers to be disappointed.
 

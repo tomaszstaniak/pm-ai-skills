@@ -1,6 +1,6 @@
 ---
 name: working-backwards
-description: 'Amazon''s Working Backwards product development method based on Colin Bryar and Bill Carr''s "Working Backwards". Use when you need to: (1) write a PR/FAQ document for a new product or feature, (2) validate an idea by defining the customer experience first, (3) stress-test a proposal with pre-mortem analysis, (4) align stakeholders around a product vision, (5) decide whether an idea is worth building before writing code.'
+description: 'Amazon''s Working Backwards product development method based on Colin Bryar and Bill Carr''s "Working Backwards". Use this skill whenever the user is discussing a new product, feature, pitch, or launch narrative — even if they do not explicitly say "PR/FAQ," "press release," or "working backwards." Triggers include: (1) writing or reviewing a PR/FAQ for a new product or feature, (2) drafting the launch narrative or announcement story for something not yet built, (3) validating an idea by defining the customer experience first, (4) evaluating an internal idea pitched by a teammate or exec, (5) structuring a 6-pager or narrative memo for an exec review, (6) stress-testing a proposal with pre-mortem analysis, (7) aligning stakeholders around a product vision, (8) deciding whether an idea is worth building before writing code, (9) sharpening a fuzzy product concept into a customer-facing story, (10) running a go/no-go decision meeting on a new initiative.'
 license: CC-BY-SA-4.0
 metadata:
   author: Tomasz Staniak
@@ -38,7 +38,15 @@ Amazon:       Customer need → PR/FAQ → Debate → Build only if compelling
 
 ### Part 1: The Press Release (1 page max)
 
-A fictional press release announcing the finished product. Written in the voice of a real press release, as if the product already exists.
+**Core concept:** A fictional press release announcing the finished product as if it already exists. Written before any design or code, in the voice and format of a real press release a journalist might publish on launch day.
+
+**Why it works:** Press releases force you to lead with the customer benefit in plain language. You cannot hide behind architecture diagrams, internal jargon, or feature lists. If the headline is boring, the product is boring — and you find that out in 2 hours of writing, not 6 months of building.
+
+**Key insights:**
+- The headline is the hardest sentence in the document — if you can't write it, the idea isn't ready
+- Customer quotes should express emotional outcomes ("I stopped worrying about losing my work"), not features ("the auto-save runs every 30 seconds")
+- The press release is aspirational but not fictional — it must describe a product you genuinely intend to build
+- Reading the PR aloud is the fastest test: where you stumble is where the thinking is fuzzy
 
 **Structure:**
 
@@ -80,7 +88,9 @@ See: [references/press-release-writing.md](references/press-release-writing.md)
 
 ### Part 2: The FAQ (2-5 pages)
 
-Two sections: external FAQ (customer questions) and internal FAQ (stakeholder/business questions).
+**Core concept:** Two paired Q&A sections that accompany the press release — an external FAQ written from the customer's perspective, and an internal FAQ written for stakeholders making the build/don't-build decision.
+
+**Why it works:** The press release is aspirational; the FAQ is where honesty lives. By forcing yourself to list and answer the uncomfortable questions in writing, you surface the assumptions, risks, and unit economics that would otherwise stay buried until launch. The FAQ is the document's stress test.
 
 **External FAQ (customer perspective):**
 - How much does it cost?
@@ -115,7 +125,9 @@ See: [references/faq-construction.md](references/faq-construction.md)
 
 ### Part 3: The Pre-Mortem (1 page)
 
-**Based on Gary Klein's prospective hindsight technique.** After writing the PR/FAQ, assume the product has launched and failed. Work backwards from failure to identify what went wrong.
+**Core concept:** A structured failure imagination exercise based on Gary Klein's prospective hindsight technique. After writing the PR/FAQ, assume the product has launched and failed, then work backwards from failure to identify what went wrong — and what you can do now to prevent it.
+
+**Why it works:** By the time you've written a compelling PR and an honest FAQ, you're emotionally invested in the idea. The pre-mortem is the structured antidote to optimism bias. Klein's research (1989) showed that imagining an event has already happened makes people roughly 30% better at identifying reasons for outcomes than asking "what might go wrong?" in the abstract.
 
 **The Pre-Mortem Protocol:**
 
@@ -142,7 +154,11 @@ What went wrong?"
 3. **Early warning signal** — how would you detect this is happening?
 4. **Mitigation** — what can you do now to prevent it?
 
-**Why pre-mortem works here:** By the time you've written a compelling PR and honest FAQ, you're emotionally invested. The pre-mortem is the structured antidote to optimism bias. It leverages "prospective hindsight" — imagining an event has already happened makes people 30% better at identifying reasons for outcomes (Klein, 1989).
+**Key insights:**
+- Run the pre-mortem with the team, not solo — diverse perspectives surface different failure modes
+- The most valuable failure scenarios are the ones nobody wanted to say out loud
+- Convert high-likelihood mitigations into sprint-zero tasks, not "we'll watch for this"
+- If 3+ scenarios are High likelihood / High impact, the PR/FAQ isn't ready for go/no-go
 
 **Product applications:**
 

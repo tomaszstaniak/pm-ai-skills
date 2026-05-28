@@ -1,6 +1,6 @@
 ---
 name: continuous-discovery-habits
-description: 'Product discovery framework based on Teresa Torres'' "Continuous Discovery Habits". Use when you need to: (1) build an opportunity solution tree from desired outcomes, (2) identify and prioritize customer opportunities, (3) design assumption tests for product ideas, (4) structure customer interview snapshots, (5) map assumptions to experiments, (6) move from output-driven to outcome-driven product development, (7) map current-state customer experiences, (8) build a weekly discovery habit.'
+description: 'Product discovery framework based on Teresa Torres'' "Continuous Discovery Habits". Use this skill whenever the user is doing product discovery work — even if they do not explicitly say "OST," "Teresa Torres," or "discovery." Triggers include: (1) building, critiquing, or restructuring an opportunity solution tree, (2) identifying, organizing, or prioritizing customer opportunities, (3) designing assumption tests before committing to a feature, (4) writing or critiquing interview snapshots from customer conversations, (5) generating multiple solution candidates for an opportunity (especially with How Might We), (6) mapping a current-state customer experience or journey to surface unmet needs, (7) diagnosing why a product team is shipping without moving outcomes, (8) running a discovery pre-mortem before committing to a solution branch, (9) building or strengthening a weekly customer-interview habit, (10) connecting business outcomes to product outcomes to opportunities to solutions in a single coherent tree.'
 license: CC-BY-SA-4.0
 metadata:
   author: Tomasz Staniak
@@ -160,6 +160,11 @@ See: [references/opportunity-discovery.md](references/opportunity-discovery.md)
 | Churn analysis | Map the experience of users who churned to find failure points | Discover that users abandon onboarding at step 4 because they need data they don't have handy |
 | Cross-functional alignment | Build the map together so engineering, design, and product share one view | Three-hour collaborative session produces a shared reference artifact |
 
+**Copy patterns:**
+- "Our current-state map shows customers spend [X] on [step] before reaching [step]. Friction concentrates at [step]."
+- "The emotional curve on our map comes from direct interview quotes — we are not guessing how customers feel."
+- "The opportunities we are pursuing this quarter all lift from points of high friction on the experience map."
+
 **Ethical boundary:** Experience maps must reflect real customer experiences from interviews, not the team's projection of what they imagine customers feel.
 
 See: [references/experience-mapping.md](references/experience-mapping.md)
@@ -215,6 +220,11 @@ See: [references/solution-generation.md](references/solution-generation.md)
 | Quarterly planning | Rank the top 5-7 opportunities from the OST to decide team focus | Compare "users struggle to find content" vs. "users can't collaborate in real time" using structured criteria |
 | Sprint planning | Choose which opportunity to tackle this iteration based on current evidence | Pick the opportunity where you have the most interview evidence and a testable solution |
 | Portfolio decisions | Distribute team effort across opportunities by risk and potential impact | 60% on high-confidence opportunity, 30% on medium, 10% on exploratory |
+
+**Copy patterns:**
+- "We compared opportunities head-to-head. Here is why we chose [opportunity] over [alternative]."
+- "Our top opportunity scores high on frequency, severity, and outcome alignment — and is mentioned in [N of M] interviews."
+- "We deprioritized [opportunity] not because it is unimportant, but because [reason]. Documented for revisit when [trigger]."
 
 **Ethical boundary:** Prioritization frameworks should surface real customer needs, not be gamed to justify features that serve business metrics at the expense of user value.
 
@@ -290,6 +300,11 @@ See: [references/assumption-testing.md](references/assumption-testing.md)
 | Team kickoff | Establish the weekly cadence in the first week of a new team or initiative | Set up automated recruitment, block Thursday afternoons, create snapshot template |
 | Scaling discovery | Expand from one interview per week to three as the habit solidifies | Add a second slot on Tuesday for churned-user interviews and a Friday slot for prospect interviews |
 | Manager support | Leaders protect discovery time and ask for evidence in planning discussions | "What did you learn from interviews this week?" becomes a standing question in 1:1s |
+
+**Copy patterns:**
+- "Discovery is on our calendar weekly, not when we 'have time.' The cadence is [day/time] every week."
+- "The full trio (PM, designer, engineer) participates in every interview. Filtering insights through one person costs us context."
+- "Our interview-to-insight cycle takes [N] days. We are working to compress it to [target]."
 
 **Ethical boundary:** Respect participant time. Keep interviews to 30 minutes, compensate fairly, and never use discovery interviews as a disguised sales pitch.
 

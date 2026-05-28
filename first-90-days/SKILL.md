@@ -1,6 +1,6 @@
 ---
 name: first-90-days
-description: 'Leadership transition framework based on Michael D. Watkins'' "The First 90 Days". Use when you need to: (1) plan onboarding for a new leadership or management role, (2) build a 30-60-90 day plan, (3) diagnose the business situation you''re entering (STARS model), (4) plan critical early conversations with your new boss, peers, and team, (5) identify and avoid common transition traps, (6) accelerate time to value in a new role.'
+description: 'Leadership transition framework based on Michael D. Watkins'' "The First 90 Days". Use this skill whenever the user is discussing a role change, onboarding, new team, new boss, promotion, or stepping into leadership — even if they do not explicitly say "transition" or "90 days". Triggers include: (1) planning onboarding for a new leadership or management role, (2) building a 30-60-90 day plan, (3) diagnosing the business situation being entered (STARS model: Start-up, Turnaround, Accelerated growth, Realignment, Sustaining success), (4) planning critical early conversations with a new boss, peers, or team, (5) identifying and avoiding common transition traps, (6) accelerating time to value in a new role, (7) feeling overwhelmed or under pressure in the first weeks/months of a new job, (8) inheriting a team and unsure where to start, (9) being promoted and needing to "let go" of the old role, (10) joining a company in a new industry, function, or geography and needing to adapt fast.'
 license: CC-BY-SA-4.0
 metadata:
   author: Tomasz Staniak
@@ -31,7 +31,11 @@ The fundamental challenge: you are simultaneously learning (absorbing massive am
 
 ## The STARS Model: Diagnose Your Situation
 
-**Before making any plans, diagnose the business situation you're entering.** Different situations demand fundamentally different strategies. The STARS model identifies five common situations:
+**Core concept:** Before making any plans, diagnose the business situation you're entering. Different situations demand fundamentally different strategies, and the same playbook applied to the wrong situation will backfire.
+
+**Why it works:** Most failed transitions are not failures of effort or talent — they're failures of diagnosis. A leader who applies a Turnaround playbook to a Sustaining Success business will alienate the team and destroy what works. A leader who applies a Sustaining Success mindset to a Turnaround will fail to act fast enough. STARS forces you to name the situation before choosing tactics, which is the single highest-leverage move you can make in week one.
+
+The STARS model identifies five common situations:
 
 | Situation | What it is | Your primary job | Key danger |
 |-----------|-----------|-----------------|------------|
@@ -68,6 +72,10 @@ See: [references/stars-model.md](references/stars-model.md)
 
 ### Days 1-30: Learn
 
+**Core concept:** Absorb before acting. The first 30 days are for diagnosis, relationships, and context — not for announcing changes or making big decisions.
+
+**Why it works:** New leaders are under enormous pressure (internal and external) to "show value" immediately. But every decision made without context risks being wrong, and every wrong decision burns credibility you'll need later. A disciplined learning phase compounds: the deeper your understanding by day 30, the better every decision you make from day 31 onward.
+
 **Goal:** Absorb. Understand the landscape before acting.
 
 | Action | How | Output |
@@ -84,6 +92,20 @@ See: [references/stars-model.md](references/stars-model.md)
 - Criticizing how things were done before you arrived
 - Spending all your time with your direct reports and ignoring peers
 
+**Key insights:**
+- The "honeymoon period" is real — use it to ask naive questions you can't ask later
+- Talk to people outside your reporting line (peers, customers, ex-employees) — they tell you what your team won't
+- Write down your first impressions on day 1; you'll never see the org with fresh eyes again
+- Resist the urge to fix the first broken thing you see — it might be load-bearing
+
+**Product applications:**
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| New head of product | Do a "listening tour" before touching roadmap | "Before any roadmap changes, I'm interviewing 20 people: every PM, every eng lead, 5 customers, 3 sales reps. I'll share findings in week 4." |
+| New PM on existing team | Shadow before suggesting | "I'm joining standups and customer calls for 2 weeks before proposing anything. I want to understand the why behind current decisions." |
+| Promoted internal manager | Reset relationships explicitly | "I know we used to vent about leadership together. I'm in that seat now — let's talk about how our working relationship needs to change." |
+
 **Copy patterns:**
 - "In my first 30 days, I'm here to learn, not to fix. My goal is to understand before I act."
 - "I've scheduled conversations with [N] people across [functions] to build a complete picture."
@@ -94,6 +116,10 @@ See: [references/stars-model.md](references/stars-model.md)
 See: [references/learning-phase.md](references/learning-phase.md)
 
 ### Days 31-60: Shape
+
+**Core concept:** Translate learning into strategy and secure early wins that build credibility and momentum.
+
+**Why it works:** By day 30, the organization is asking "what is this person actually going to do?" Early wins answer that question with action rather than words. Wins also create the political capital you'll need in days 61-90 to make harder calls. Skipping this phase — going straight from learning to large-scale change — denies you the credibility runway you'll need when resistance hits.
 
 **Goal:** Develop your strategy and secure early wins.
 
@@ -111,6 +137,20 @@ See: [references/learning-phase.md](references/learning-phase.md)
 - Consistent with the direction you want to go
 - Not a "quick fix" that creates long-term debt
 
+**Key insights:**
+- Pick wins that demonstrate the principles you want to operate by, not just the biggest wins available
+- Two clean wins beat five messy ones — wins must actually land
+- Your coalition is built by listening, not by selling — persuadables become supporters when they feel heard
+- The team is watching what you tolerate and what you reward; your first decisions set the norms
+
+**Product applications:**
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| New PM owning a roadmap | Ship one visible improvement that signals direction | "I picked the bug everyone hates but no one prioritized. Fixing it in week 6 told the team: I listen, and I unblock." |
+| New eng manager | Make one process change the team has been asking for | "Engineers said code review was broken. In week 5 I rolled out a lightweight new flow they helped design. That bought trust for harder changes later." |
+| New head of product | Run one strategic review that produces a decision | "I ran a portfolio review at day 45 — killed two zombie projects with the team's input. That single decision freed 30% capacity and signaled focus." |
+
 **Copy patterns:**
 - "I've identified [N] early wins that are visible, achievable, and directionally correct: [list]."
 - "This early win demonstrates [the principle I want to establish] — it's not just a fix, it's a signal."
@@ -122,6 +162,10 @@ See: [references/early-wins.md](references/early-wins.md)
 
 ### Days 61-90: Accelerate
 
+**Core concept:** Convert credibility into structural change — team, resources, rhythm, and a clear forward narrative.
+
+**Why it works:** By day 60 you've earned the right to act. Now is when the harder decisions — role changes, killing initiatives, requesting resources — are ripe. Delaying them past day 90 is dangerous: the "new leader window" closes, and changes you make later look like personal preference rather than considered judgment. Acting now, grounded in 60 days of evidence, is both safer and more durable.
+
 **Goal:** Drive change and build momentum.
 
 | Action | How | Output |
@@ -131,6 +175,20 @@ See: [references/early-wins.md](references/early-wins.md)
 | Establish your operating rhythm | Meetings, reviews, rituals that embed your priorities | Recurring cadence |
 | Communicate the strategy | Tell the story: here's where we are, here's where we're going, here's how we get there | Strategy narrative |
 | Self-assessment | What's working? What's not? What have I learned about myself? | Personal retrospective |
+
+**Key insights:**
+- The "new leader window" for big changes closes around day 90 — after that, every change is "your fault" rather than "the new normal"
+- Operating rhythm (recurring rituals) embeds priorities more durably than any one-time speech
+- Resource asks land best now because you have evidence from early wins to justify them
+- Self-assessment matters more than people expect — the patterns you don't catch at 90 days will haunt you at 12 months
+
+**Product applications:**
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| New head of product | Restructure team around the strategy you've now validated | "At day 75 I split product into discovery and delivery pods. That structure embodies the focus on outcomes I'd been advocating." |
+| New eng manager | Make the performance call you've been preparing for | "By day 80 I had enough evidence to manage out one underperformer and promote one A-player. Both calls were grounded in observed behavior, not impressions." |
+| New PM | Establish the rituals that lock in your operating model | "I instituted weekly outcome reviews and a monthly customer-call requirement. Two months later, those rituals are how the team works — not my preferences." |
 
 **Copy patterns:**
 - "At 90 days, here's where we are: [progress on outcome], [team changes made], [rhythm established]."
@@ -142,6 +200,10 @@ See: [references/early-wins.md](references/early-wins.md)
 See: [references/acceleration-phase.md](references/acceleration-phase.md)
 
 ## The 5 Conversations with Your Boss
+
+**Core concept:** The relationship with your new boss is the highest-leverage one in your transition. Five specific, explicit conversations — held early — align expectations and prevent the #1 cause of transition failure: misalignment that compounds silently.
+
+**Why it works:** Most new-boss relationships fail not from conflict but from drift — assumptions that were never named, expectations that diverged in silence, styles that grated without explanation. Each of the five conversations surfaces one specific axis of potential misalignment (situation, expectations, resources, style, development). Having them explicitly — rather than hoping they'll happen organically — converts an ambiguous relationship into a defined working contract you can iterate on.
 
 **The most important relationship in your first 90 days.** Have these 5 conversations early and explicitly:
 
@@ -158,6 +220,14 @@ See: [references/acceleration-phase.md](references/acceleration-phase.md)
 - These conversations are two-way — share your perspective too
 - Revisit expectations regularly. What your boss cares about will shift.
 - Underpromise and overdeliver. Reset unrealistic expectations early rather than failing to meet them later.
+
+**Product applications:**
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| New PM reporting to a head of product | Use conversation 2 to nail "what does good look like at 90 days?" | "I asked my new VP: 'If I succeed by day 90, what specifically will be different?' That answer reshaped my whole plan." |
+| New eng manager reporting to a director | Use conversation 4 to define decision rights | "We mapped which decisions I own, which need input, which need approval. That document prevented dozens of awkward escalations." |
+| New head of product reporting to CEO | Use conversation 1 to align on STARS before strategy | "The CEO thought we were in Sustaining Success; I saw Realignment. Surfacing that gap in week 2 saved months of misaligned execution." |
 
 **Copy patterns:**
 - "Here's how I understand the situation [conversation 1]. Here's what I think success looks like [conversation 2]. Here's what I need to get there [conversation 3]."

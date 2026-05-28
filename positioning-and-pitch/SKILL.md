@@ -1,6 +1,6 @@
 ---
 name: positioning-and-pitch
-description: 'Framework based on April Dunford''s "Obviously Awesome" and "Sales Pitch". Use when you need to: (1) define or evaluate product positioning using the five-component framework, (2) translate positioning into a compelling pitch for stakeholders or buyers, (3) choose a market category strategy that shapes what you build and how you compete, (4) develop differentiated value claims that connect product decisions to market reality, (5) structure a pitch for exec reviews, board updates, or partner conversations, (6) diagnose why your product story isn''t landing with customers or internal stakeholders, (7) align cross-functional teams around a shared positioning narrative, (8) connect positioning decisions to roadmap priorities and feature trade-offs'
+description: 'Framework based on April Dunford''s "Obviously Awesome" and "Sales Pitch". Use this skill whenever the user is discussing how to describe, frame, differentiate, sell, or talk about their product — even if they do not explicitly say "positioning," "pitch," or "messaging." Triggers include: (1) defining or evaluating product positioning using the five-component framework, (2) translating positioning into a compelling pitch for stakeholders or buyers, (3) choosing a market category strategy that shapes what you build and how you compete, (4) developing differentiated value claims that connect product decisions to market reality, (5) structuring a pitch for exec reviews, board updates, or partner conversations, (6) diagnosing why your product story isn''t landing with customers or internal stakeholders, (7) aligning cross-functional teams around a shared positioning narrative, (8) connecting positioning decisions to roadmap priorities and feature trade-offs, (9) writing a launch announcement, website headline, or category-defining tagline, (10) explaining your product to a non-buyer (analyst, investor, new hire, partner) who lacks context, (11) deciding which features to highlight in marketing copy, demos, or sales decks, (12) responding when a competitor reframes the market or a buyer says "you sound like everyone else"'
 license: CC-BY-SA-4.0
 metadata:
   author: Tomasz Staniak
@@ -39,60 +39,148 @@ Positioning is not a statement — it's a set of five interlocking decisions. Ch
 
 ### 1. Competitive Alternatives
 
-**What buyers would do if your product didn't exist.** This is not a list of competitors — it's the full set of realistic options a buyer faces, including doing nothing, using spreadsheets, hiring an agency, or building something in-house.
+**Core concept:** Competitive alternatives are what buyers would do if your product didn't exist. This is not a list of named competitors — it's the full set of realistic options a buyer faces, including doing nothing, using spreadsheets, hiring an agency, or building something in-house.
 
-**Why PMs need this:** Competitive alternatives define your frame of reference. If you don't know what you're being compared to, you can't know what "better" means. The alternatives your customers actually consider — not the ones you wish they'd consider — determine which capabilities matter and which are irrelevant.
+**Why it works:** Competitive alternatives define your frame of reference. If you don't know what you're being compared to, you can't know what "better" means. The alternatives customers actually consider — not the ones you wish they'd consider — determine which capabilities matter and which are irrelevant. Anchoring on real alternatives keeps the rest of the positioning grounded in market reality instead of internal aspiration.
 
-**PM application:**
-- Use competitive alternatives to define your feature comparison frame — you only need to beat the alternatives your best-fit customers actually evaluate
-- "Do nothing" is always an alternative and often your biggest competitor; quantify its cost
-- Watch for alternative drift — new entrants or category shifts change what you're compared to
+**Key insights:**
+- "Do nothing" and "spreadsheet plus duct tape" are almost always alternatives — and often the most dangerous ones, because they're free and familiar
+- The alternative set is defined by the buyer's job-to-be-done, not by your competitive intel deck
+- Alternatives drift over time as new entrants appear and category lines shift; what you beat last year may not be what you're compared to now
+- Different buyer segments evaluate different alternative sets — a SMB buyer rarely considers an enterprise platform, and vice versa
+
+**Product applications:**
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Win/loss analysis | Tag every deal with the specific alternative it was compared against | "We lost 60% of mid-market deals to in-house builds, not to our named competitor — the real fight is build-vs-buy" |
+| Feature scoping | Only invest in beating the alternatives best-fit buyers actually evaluate | "We don't need parity with the enterprise suite; our buyers are choosing between us and a spreadsheet" |
+| Pitch construction | Name the alternatives explicitly in the Setup so differentiation lands | "Teams in your position usually choose between hiring an agency, building internally, or using a point tool — here's why each breaks down" |
+
+**Copy patterns:**
+- "If we didn't exist, our best-fit customers would [specific alternative], which means our differentiation has to clearly beat [that alternative], not the competitor we obsess over internally."
+- "Our real competitor isn't [named vendor] — it's the spreadsheet plus the manual process. That's what we have to displace."
+- "Before we talk about features, let's agree on what you'd do instead — that's the comparison that actually matters."
+
+**Ethical boundary:** Don't strawman the alternatives. Represent what buyers would actually do — including the ways "do nothing" or a competitor might genuinely be the right choice for some segments.
+
+See: [references/five-components-of-positioning.md](references/five-components-of-positioning.md)
 
 ### 2. Unique Capabilities
 
-**What your product or company can do that alternatives cannot.** These are facts, not claims — specific features, architectural decisions, data assets, expertise, or delivery models that are genuinely unique to you.
+**Core concept:** Unique capabilities are what your product or company can do that alternatives cannot. These are facts, not claims — specific features, architectural decisions, data assets, expertise, or delivery models that are genuinely unique to you.
 
-**Why PMs need this:** Unique capabilities are the raw material for every differentiation claim. If you can't name what's actually unique, you'll default to generic benefits that any competitor could claim. This is also the direct link to your roadmap — investments should strengthen capabilities that feed differentiation, not add features that competitors already have.
+**Why it works:** Unique capabilities are the raw material for every differentiation claim. If you can't name what's actually unique, you'll default to generic benefits ("faster," "easier," "more flexible") that any competitor could claim. This component is also the direct link to your roadmap — investments should strengthen capabilities that feed differentiation, not chase parity on features competitors already ship.
 
-**PM application:**
-- Audit quarterly: are your "unique" capabilities still unique, or have competitors caught up?
-- Distinguish between product capabilities (features, architecture) and company capabilities (expertise, data, relationships) — both count
-- Prioritize roadmap investments that deepen unique capabilities over ones that achieve parity on table-stakes features
+**Key insights:**
+- A unique capability is something an alternative cannot replicate without significant architectural, data, or organizational change — not just something they haven't gotten around to yet
+- Both product capabilities (features, architecture) and company capabilities (proprietary data, exclusive partnerships, deep domain expertise) count
+- Capabilities decay; what was unique two years ago may be table stakes today
+- A long list of "unique" capabilities usually means none of them are — narrow to the few that genuinely separate you
+
+**Product applications:**
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Roadmap prioritization | Weight investments that deepen unique capabilities over parity features | "Of these ten requests, only two extend our data-graph advantage — those are Q1; the rest are parity bets we'll only fund if a deal is blocked" |
+| Quarterly positioning audit | Re-test each "unique" capability against current competitor releases | "Vendor X shipped real-time sync last month — our 'real-time' claim is now table stakes; we need a new edge" |
+| Build-vs-buy decisions | Build what is uniquely yours; buy what is undifferentiated infrastructure | "Auth and billing are not where we differentiate — buy. Our scoring engine is our moat — build." |
+
+**Copy patterns:**
+- "We can do [X] because of [specific architectural or data advantage] — alternatives can't replicate this without rebuilding [Y]."
+- "Here's what's genuinely unique to us, and here's what's table stakes we just happen to do well — let's not confuse the two on the roadmap."
+- "If a competitor could ship this in a sprint, it's not a unique capability — it's a feature."
+
+**Ethical boundary:** Don't claim uniqueness you can't defend in a customer call. Inflated capability claims survive marketing review but collapse in a technical evaluation, destroying trust.
+
+See: [references/five-components-of-positioning.md](references/five-components-of-positioning.md)
 
 ### 3. Differentiated Value
 
-**The business outcomes your unique capabilities create, stated comparatively.** Not "we save time" but "we reduce implementation time from six weeks to eight days because we handle the data migration — alternatives hand you documentation and a Slack channel."
+**Core concept:** Differentiated value is the business outcomes your unique capabilities create, stated comparatively. Not "we save time" but "we reduce implementation time from six weeks to eight days because we handle the data migration — alternatives hand you documentation and a Slack channel."
 
-**Why PMs need this:** Differentiated value is the bridge between product decisions and market outcomes. Every feature request can be evaluated against it: does this strengthen our differentiated value, or is it a distraction? It's also what your stakeholders, salespeople, and champions need to be able to articulate in one sentence.
+**Why it works:** Differentiated value is the bridge between product decisions and market outcomes. It's where capability becomes consequence. Every feature request can be evaluated against it: does this strengthen our differentiated value, or is it a distraction? It's also what your stakeholders, salespeople, and champions need to be able to articulate in one sentence — if they can't, the pitch falls apart in every conversation you're not in.
 
-**PM application:**
-- Run every value claim through the "so what?" test (push to business outcome) and "compared to what?" test (ensure uniqueness)
-- Use differentiated value as a roadmap filter — if a feature doesn't reinforce differentiation, question why it's prioritized
-- Test whether stakeholders can repeat your differentiated value in their own words; if they can't, it's too complex
+**Key insights:**
+- Every value claim must survive two tests: "So what?" (push to business outcome) and "Compared to what?" (ensure uniqueness)
+- Outcomes are stronger than features, and comparative outcomes are stronger than absolute outcomes
+- Differentiated value should be narrow — two or three specific claims, not a list of ten
+- If a competitor could put the same sentence on their website with a straight face, it's not differentiated value
+
+**Product applications:**
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Roadmap filtering | Score features on whether they make differentiated value more true, more defensible, or more visible | "This integration is nice but doesn't reinforce our 'fastest time-to-first-insight' claim — deprioritize" |
+| Stakeholder enablement | Test if sales, CS, and execs can restate the differentiated value unprompted | "Three out of five execs described us differently — we need an alignment session before the QBR" |
+| Pricing and packaging | Build pricing tiers around the differentiated value, not around feature count | "Our premium tier should monetize the migration speed advantage, not bundle random extras" |
+
+**Copy patterns:**
+- "Customers like you get [specific measurable outcome] in [timeframe], compared to [specific outcome from named alternative] — and the reason is [unique capability]."
+- "Our differentiated value, in one sentence: [X outcome] for [Y customer], faster/cheaper/more reliably than [named alternative], because [unique capability]."
+- "If this feature ships, does our differentiated value statement become more true? If not, why are we building it?"
+
+**Ethical boundary:** Differentiated value claims must be verifiable with customer evidence. Aspirational claims that current customers can't substantiate are a credibility liability, not a marketing asset.
+
+See: [references/differentiated-value-development.md](references/differentiated-value-development.md)
 
 ### 4. Best-Fit Customers
 
-**The segment that captures maximum value from your differentiation.** Defined by characteristics that make your differentiated value disproportionately important to them — industry, company size, team structure, growth stage, or specific situation.
+**Core concept:** Best-fit customers are the segment that captures maximum value from your differentiation. They're defined by observable characteristics — industry, company size, team structure, growth stage, tech stack, or specific situation — that make your differentiated value disproportionately important to them.
 
-**Why PMs need this:** Best-fit customer definition is the foundation of discovery focus and roadmap targeting. Building for everyone means differentiating for no one. When you know exactly who gets the most value from your product, discovery research gets sharper, feature prioritization gets clearer, and "not for us" becomes a legitimate strategic response.
+**Why it works:** Best-fit customer definition is the foundation of discovery focus, roadmap targeting, and go-to-market efficiency. Building for everyone means differentiating for no one. When you know exactly who gets the most value from your product, discovery research gets sharper, feature prioritization gets clearer, win rates climb in the chosen segment, and "not for us" becomes a legitimate, strategic response instead of a defensive one.
 
-**PM application:**
-- Use best-fit customer definition to scope discovery research — interview customers who match the profile, not just whoever responds
-- Treat requests from outside the best-fit segment with skepticism — they may pull your product toward mediocrity
-- Revisit as the market evolves; best-fit customers can shift as competitive alternatives change
+**Key insights:**
+- Best-fit is observable, not psychographic — "ambitious teams" is not a segment; "Series B-to-C SaaS companies with a dedicated RevOps function" is
+- Best-fit customers buy fastest, expand most, churn least, and refer most — usage and revenue data will reveal them if you look
+- Saying yes to non-best-fit customers in the short term often drags the roadmap toward mediocrity in the long term
+- Best-fit shifts as competitive alternatives shift — the segment that loved you when you were the only option may no longer be your sweet spot
+
+**Product applications:**
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Discovery research | Recruit interview participants who match best-fit, not whoever responds first | "Our last research round was 70% non-best-fit — no wonder the insights pointed away from our positioning" |
+| Roadmap evaluation | Treat requests from outside the best-fit segment as signal, not as requirements | "Three enterprise prospects asked for SSO; none of them are best-fit. We'll note the pattern but not commit roadmap time" |
+| Sales qualification | Use best-fit criteria to disqualify fast and protect the team's focus | "If a prospect isn't in our best-fit profile, the rep can pass on them without escalation — we don't chase bad-fit revenue" |
+
+**Copy patterns:**
+- "Our best-fit customer is [observable profile]. Everyone else is a bonus, not the plan — and not a roadmap driver."
+- "We win deals fast, expand accounts, and get referrals from [specific segment]. That's not a coincidence — that's where our differentiation pays off most."
+- "This request comes from outside our best-fit segment. We can listen, but we shouldn't reshape the roadmap for it."
+
+**Ethical boundary:** Be honest with non-best-fit prospects rather than selling them a product that won't deliver value. Closing bad-fit deals creates churn, support burden, and reference risk that costs more than the revenue gained.
+
+See: [references/five-components-of-positioning.md](references/five-components-of-positioning.md)
 
 ### 5. Market Category
 
-**The frame buyers use to understand what you are.** This is the mental container that sets expectations for features, pricing, competitors, and buying process. Choosing "project management tool" vs. "work operating system" vs. "team collaboration platform" activates different comparison sets in the buyer's mind.
+**Core concept:** The market category is the frame buyers use to understand what you are. It's the mental container that sets expectations for features, pricing, competitors, and buying process. Choosing "project management tool" vs. "work operating system" vs. "team collaboration platform" activates entirely different comparison sets in the buyer's mind.
 
-**Why PMs need this:** Market category choice has direct product implications. Buyers in a category expect certain features as table stakes. Choosing a category means accepting those expectations — or deliberately choosing a different category where your strengths are advantages rather than gaps. This is a product decision, not a marketing decision.
+**Why it works:** Market category choice has direct product implications. Buyers in a category expect certain features as table stakes. Choosing a category means accepting those expectations — or deliberately choosing a different category where your strengths are advantages rather than gaps. The frame determines who you're compared to, how you're evaluated, and how much context you have to set before differentiation can land. This is a product decision, not a marketing decision.
 
-**PM application:**
-- Understand which features are table stakes in your chosen category — you must meet those expectations or deliberately choose a different frame
-- Category choice determines your competitive set — choose a category where your differentiation is strongest
-- If you're creating a new category, budget for significantly more customer education in every conversation
+**Key insights:**
+- Every category carries table-stakes expectations; entering one means committing to meet them or deliberately reframing
+- A category choice that obscures your strengths is a strategic error, even if the category is "bigger"
+- Creating a new category is expensive — you trade comparison for education, and education takes time, budget, and a product that genuinely doesn't fit existing frames
+- The same product can occupy different categories for different segments; consistency matters more within a segment than across the whole market
 
-See: [references/five-components-of-positioning.md](references/five-components-of-positioning.md)
+**Product applications:**
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Roadmap planning | Map table-stakes features for the chosen category and close real gaps | "Buyers in the 'modern data platform' category expect lineage and governance — if we want this frame, we need both on the roadmap" |
+| Competitive analysis | Re-evaluate the competitive set whenever you consider a category shift | "If we reframe from 'CRM' to 'revenue platform,' our comparison set changes from Salesforce to a different list — does that help or hurt us?" |
+| Launch strategy | Decide whether to fit an existing category, dominate a niche, or create a new one before writing a single piece of launch copy | "We chose 'big fish, small pond' in vertical X — every launch asset reinforces that niche, not the broad category" |
+
+**Copy patterns:**
+- "We're positioning in the [specific category] because that's where our differentiation reads as an advantage, not a gap."
+- "Table stakes for this category are [X, Y, Z]. We meet them. Our edge is [unique capability], which the category leaders don't have."
+- "We could call ourselves a [bigger category], but then we'd be compared to [stronger players] on features we don't lead on. The narrower frame helps us."
+
+**Ethical boundary:** Don't claim a category your product can't credibly deliver against. Buyers who arrive expecting category norms and find a different product feel misled, even if the underlying product is good.
+
+See: [references/market-category-strategies.md](references/market-category-strategies.md)
 
 ## The 10-Step Positioning Process
 
