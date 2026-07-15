@@ -44,6 +44,20 @@ With a completed Setup, the same statement lands differently: the buyer has alre
 *Enterprise HR software, CHROs at companies post-acquisition:*
 > "The companies we talk to after an acquisition almost always have the same HRIS problem: two systems with different employee taxonomies, and no clean way to run cross-entity reporting during the integration period. Finance needs headcount data the HR system can't produce at the granularity they want. That usually surfaces about 90 days post-close. Where are you in that timeline?"
 
+**Weak vs. strong insights by context:**
+
+| Context | Weak Insight | Strong Insight |
+|---------|-------------|----------------|
+| SaaS analytics tool | "Companies are drowning in data." | "Most analytics teams we work with hit a wall when data requests from the business start outnumbering analyst capacity — usually around 3:1. At that point, self-serve tools get deployed but adoption stays under 20% because the underlying data model isn't business-user-ready." |
+| DevSecOps platform | "Security is more important than ever." | "The pattern we see in engineering orgs that ship fast is that security debt accumulates in the same three places every time: dependency management, secrets handling, and access reviews. The first two are automatable; the third almost always requires a manual process that nobody owns." |
+| Enterprise HR software | "Talent retention is a challenge." | "The companies coming to us after failed HRIS implementations share one thing: their previous vendor scoped the project around HR users, not managers. Manager adoption predicts whether the system actually changes behavior — and it's almost never in the implementation plan." |
+
+**Copy patterns:**
+- "Before I show you what we do, I want to share what we've learned working with companies like yours in this space…"
+- "One thing we've learned working with [similar companies] is that…"
+- "The pattern we see consistently in this space is…"
+- "What surprises most of our customers when they first talk to us is…"
+
 **Quality check:** If the buyer responds with "yes, exactly" or a story that confirms your observation — you have a strong insight. If they look uncertain or give a polite non-response, your insight wasn't specific enough to be recognizable.
 
 ---
@@ -157,8 +171,22 @@ If a claim survives both tests and still sounds like something a competitor coul
 | Executive sponsor, risk-focused | Quantified outcome data with clear methodology, named customer willing to speak | Unverifiable numbers are worse than no numbers |
 | Champion building internal case | One-page evidence summary they can share without you in the room | Must be self-explanatory and not require your narration to make sense |
 
+**Proof type applications:**
+
+| Proof Type | Best Used When | Caution |
+|------------|---------------|---------|
+| Customer case study | Buyer is evaluating fit for their specific situation | Must match industry, size, and use case — mismatched case studies raise doubts |
+| Quantified outcome data | Buyer is building an internal business case | Ensure the methodology is defensible; aggregate numbers without context feel fabricated |
+| Technical demo | Buyer's evaluators need to see capability, not hear about it | Demo must prove differentiation, not just feature breadth — a feature tour without context is not proof |
+| Reference call | Buyer has specific concerns they need validated by a peer | Choose references who match the buyer's situation; prepare them for the likely questions |
+| Third-party validation | Buyer distrusts vendor-produced evidence | Analyst coverage, review site ratings, and independent benchmarks carry credibility vendor content can't |
+
 **Proof statement template:**
 > "Let me show you what this actually looked like for [company type that matches the buyer]. They were in a similar situation — [brief framing that mirrors the buyer's context]. Here's what they were dealing with: [the problem]. Here's what changed after implementation: [specific, quantified outcome]. And here's the part that's directly relevant to [the specific concern raised in this conversation]: [the piece of evidence that addresses that concern specifically]."
+
+**Copy patterns:**
+- "I want to show you exactly the thing I claimed we do differently, in the actual product, so you can see how it works rather than just take my word for it…"
+- "The number I keep hearing from customers in your segment is [specific metric] — here's where that comes from and why it's typical for your type of deployment…"
 
 ---
 

@@ -30,6 +30,32 @@ The fix isn't asking everyone to "read the positioning doc." It's actively trans
 
 ---
 
+## The Eight Pitch Components: Openers by Audience
+
+The two-phase model has eight components. The three Setup components require the most audience adaptation — these opener patterns show how the same component changes shape by context:
+
+**1. Market Insight** — a specific, experience-grounded observation about the problem space:
+
+- For a buyer: "The pattern we see across companies in your segment is…"
+- For an exec review: "The market signal we're tracking that has the biggest implications for our roadmap is…"
+- For a board update: "The competitive dynamic that changed this quarter is…"
+
+**2. Alternatives** — the realistic options, presented honestly:
+
+- For a buyer: "Companies in your position are typically choosing between…"
+- For an exec review: "The approaches we evaluated and why we chose this direction…"
+- For a board update: "The strategic alternatives the team considered…"
+
+**3. Perfect World** — the ideal solution, which sets evaluation criteria before your product enters the conversation:
+
+- For a buyer: "Given these trade-offs, the ideal solution for your situation would…"
+- For an exec review: "The outcome we should be optimizing for is…"
+- For a board update: "The market opportunity we're positioning to capture requires…"
+
+The Follow-Through components — **4. Introduction**, **5. Differentiated Value**, **6. Proof**, **7. Objection Handling**, and **8. The Ask** — deliver your story into the context the Setup created. For the Ask, be specific: buyers get a concrete action with a date; executives get a decision or resource request; boards get a strategic direction to endorse.
+
+---
+
 ## Component 1: Competitive Alternatives → Setup Alternatives
 
 ### The Translation Across Contexts
@@ -243,6 +269,35 @@ To show how the same positioning translates across PM contexts, here's a complet
 
 **Follow-Through:**
 > "When you integrate our API observability into your platform, your customers get monitoring that deploys in minutes without an SRE team. That means they detect performance issues before their customers do — which makes your platform more valuable because the monitoring layer 'just works.'"
+
+---
+
+## Building Proof for Positioning Claims
+
+Proof (pitch component 6) must be matched to the audience's context:
+
+**For stakeholder pitches (exec reviews, board updates):**
+- Lead with metrics: customer adoption, win rates against specific alternatives, retention in best-fit segment
+- Use customer quotes that specifically reference your differentiated value, not generic satisfaction
+- Show competitive evidence: deals won against named alternatives, analyst positioning, market share in your niche
+
+**For buyer conversations:**
+- Match proof to the buyer's profile: industry, size, use case, and the specific outcome they care about
+- A single deeply matched case study outweighs ten logo slides
+- Live demos structured as proof of differentiation — not feature tours — are the most powerful format
+
+**For cross-functional alignment:**
+- Share win/loss data that validates or challenges positioning assumptions
+- Use customer interview quotes that surface how customers describe your product versus how you describe it
+- Track whether the language customers use matches your positioning language — gaps indicate positioning drift
+
+### Product Demos as Positioning Validation
+
+Demos should prove your positioning is true, not show everything your product does.
+
+**Weak demo structure:** Walk through features in the order they appear in the product navigation.
+
+**Strong demo structure:** Set up the problem (the market insight), show how alternatives handle it (their limitations), then demonstrate how your product handles it differently (your unique capability in action, producing differentiated value the audience can see).
 
 ---
 

@@ -69,6 +69,14 @@ Forte's critical principle: **separate capture from organization.** In the momen
 2. During Weekly Review, process inbox items into PARA categories
 3. Add minimal context at capture time: a sentence about why you saved it
 
+### Copy Patterns
+
+- "Does this resonate, is it useful, or is it surprising? If none, skip it."
+- "Save it to the inbox now; I'll organize during my weekly review."
+- "I'd save this 'just in case' — which means I shouldn't save it."
+
+**Ethical boundary:** Capture for your own learning and output. Do not capture proprietary or confidential information from previous employers, clients, or partners in ways that violate agreements. Your Second Brain should enhance your thinking, not serve as an unauthorized knowledge transfer mechanism.
+
 ---
 
 ## Organize: Placing Information Where It's Useful
@@ -136,6 +144,20 @@ TASK MANAGER (Linear/Asana/etc.)    EMAIL LABELS
 | You take notes during a quarterly business review | Save to "Meeting Notes" by date | Ask: "Which project do these notes inform?" Probably your Q2 planning project — put them there |
 | You find a great framework for stakeholder mapping | Save to "Frameworks" resource | Ask: "Do I have an active project that needs stakeholder mapping?" If yes, project folder. If ongoing responsibility, Area. If general interest, Resource |
 
+### Organizing Principles in Practice
+
+| Context | Organization Principle | Example |
+|---------|----------------------|---------|
+| New project kickoff | Create the project folder across all platforms simultaneously | New "Q2 Strategy" project gets a folder in Notes, Drive, and Jira |
+| Incoming information | Ask "Where will I use this?" not "What is this about?" | A competitive insight goes in the "Board Presentation" project, not in "Competitive Intel" resource |
+| Tool sprawl | Apply PARA consistently across all tools | Same four top-level categories in Notion, Google Drive, email labels, and bookmark folders |
+
+### Copy Patterns
+
+- "Where will I actually use this next? File it there."
+- "Move it into the project folder; one note, one location."
+- "If I can't picture using it, I don't need to organize it — archive or delete."
+
 ---
 
 ## Distill: Finding the Essence
@@ -160,6 +182,12 @@ Distillation is not summarization — it's a form of thinking. When you bold the
 
 PMs are trained to be thorough. The instinct is to capture everything and distill nothing — keeping full interview transcripts, complete competitive reports, and exhaustive meeting notes. This creates a system where retrieval requires re-reading entire documents. Progressive summarization solves this by creating a gradient from detail to essence, making every note scannable at multiple levels of depth.
 
+### Copy Patterns
+
+- "Add a two-sentence summary at the top before I close this note."
+- "Bold the parts that survive a second read; highlight the parts that survive a third."
+- "I don't need to distill this yet — only if a project pulls it in."
+
 ---
 
 ## Express: The Purpose of the System
@@ -179,6 +207,13 @@ This is the most important and most neglected step. The entire Second Brain exis
 | PRD | Write from scratch; re-derive context; 1-2 days | Reuse standard sections (IPs); pull from active project research folder; 3-5 hours |
 | Stakeholder pitch | Reconstruct argument each time; find supporting evidence; half day | Remix Setup narrative (IP) with current project evidence; 1-2 hours |
 | Team onboarding doc | Compile from memory and scattered docs; full day | Assemble from Area folders: team norms, decision history, stakeholder map IPs; 2-3 hours |
+| External content (blog posts, conference talks, thought leadership) | Generate ideas and evidence from scratch | Resources folder provides curated raw material; progressive summarization surfaces the best ideas |
+
+### Copy Patterns
+
+- "What's the deliverable this is going to feed?"
+- "Before I draft from scratch, what IPs from past projects can I assemble?"
+- "Ship a rough version this week; the Second Brain only earns its keep when it produces output."
 
 ### The Feedback Loop
 

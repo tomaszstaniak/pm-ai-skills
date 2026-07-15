@@ -140,6 +140,21 @@ This is where differentiated value development becomes a product management tool
 | Log aggregation | No — adjacent category feature | No | Partially — some want it, most have Datadog for this | Low |
 | White-label reporting | No | No | No — enterprise feature, not mid-market | Deprioritize |
 
+### Beyond the Roadmap: Other PM Applications
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Stakeholder enablement | Test if sales, CS, and execs can restate the differentiated value unprompted | "Three out of five execs described us differently — we need an alignment session before the QBR" |
+| Pricing and packaging | Build pricing tiers around the differentiated value, not around feature count | "Our premium tier should monetize the migration speed advantage, not bundle random extras" |
+
+### Copy Patterns
+
+- "Customers like you get [specific measurable outcome] in [timeframe], compared to [specific outcome from named alternative] — and the reason is [unique capability]."
+- "Our differentiated value, in one sentence: [X outcome] for [Y customer], faster/cheaper/more reliably than [named alternative], because [unique capability]."
+- "If this feature ships, does our differentiated value statement become more true? If not, why are we building it?"
+
+**Ethical boundary:** Differentiated value claims must be verifiable with customer evidence. Aspirational claims that current customers can't substantiate are a credibility liability, not a marketing asset.
+
 ---
 
 ## Building a Differentiation Statement Library for PMs

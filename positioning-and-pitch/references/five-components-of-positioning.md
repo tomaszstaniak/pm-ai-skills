@@ -59,6 +59,22 @@ Competitive alternatives are not your competitor list. They're the full set of r
 - **Alternative monitoring:** Set up lightweight tracking (G2 reviews, competitor changelogs, win/loss mentions) to catch when alternatives change their positioning or capabilities
 - **Discovery questions:** Derive your discovery questions from the alternatives list — "What approaches have you considered or tried?" maps directly to this component
 
+### Product Application Examples
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Win/loss analysis | Tag every deal with the specific alternative it was compared against | "We lost 60% of mid-market deals to in-house builds, not to our named competitor — the real fight is build-vs-buy" |
+| Feature scoping | Only invest in beating the alternatives best-fit buyers actually evaluate | "We don't need parity with the enterprise suite; our buyers are choosing between us and a spreadsheet" |
+| Pitch construction | Name the alternatives explicitly in the Setup so differentiation lands | "Teams in your position usually choose between hiring an agency, building internally, or using a point tool — here's why each breaks down" |
+
+### Copy Patterns
+
+- "If we didn't exist, our best-fit customers would [specific alternative], which means our differentiation has to clearly beat [that alternative], not the competitor we obsess over internally."
+- "Our real competitor isn't [named vendor] — it's the spreadsheet plus the manual process. That's what we have to displace."
+- "Before we talk about features, let's agree on what you'd do instead — that's the comparison that actually matters."
+
+**Ethical boundary:** Don't strawman the alternatives. Represent what buyers would actually do — including the ways "do nothing" or a competitor might genuinely be the right choice for some segments.
+
 ---
 
 ## Component 2: Unique Capabilities
@@ -99,6 +115,22 @@ For each capability you list, ask:
 - **Audit quarterly:** Competitors ship constantly; what was unique six months ago may be parity today
 - **Distinguish between "unique" and "first":** Being first to market with a feature is not the same as having a unique capability — first-mover advantage evaporates when competitors ship the same thing
 - **Link to differentiated value:** A unique capability that doesn't produce differentiated value is technically interesting but strategically irrelevant — it should not be a roadmap priority
+
+### Product Application Examples
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Roadmap prioritization | Weight investments that deepen unique capabilities over parity features | "Of these ten requests, only two extend our data-graph advantage — those are Q1; the rest are parity bets we'll only fund if a deal is blocked" |
+| Quarterly positioning audit | Re-test each "unique" capability against current competitor releases | "Vendor X shipped real-time sync last month — our 'real-time' claim is now table stakes; we need a new edge" |
+| Build-vs-buy decisions | Build what is uniquely yours; buy what is undifferentiated infrastructure | "Auth and billing are not where we differentiate — buy. Our scoring engine is our moat — build." |
+
+### Copy Patterns
+
+- "We can do [X] because of [specific architectural or data advantage] — alternatives can't replicate this without rebuilding [Y]."
+- "Here's what's genuinely unique to us, and here's what's table stakes we just happen to do well — let's not confuse the two on the roadmap."
+- "If a competitor could ship this in a sprint, it's not a unique capability — it's a feature."
+
+**Ethical boundary:** Don't claim uniqueness you can't defend in a customer call. Inflated capability claims survive marketing review but collapse in a technical evaluation, destroying trust.
 
 ---
 
@@ -205,6 +237,22 @@ Good best-fit customer definitions use characteristics you can observe or discov
 - **Segment analysis:** Track product metrics (adoption, retention, NPS) segmented by best-fit vs. non-best-fit; the gap validates or challenges your positioning
 - **Request triage:** Feature requests from best-fit customers carry more strategic weight than requests from adjacent segments
 - **Churn investigation:** If best-fit customers churn, it's a positioning or product crisis; if non-best-fit customers churn, it may be expected
+
+### Product Application Examples
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Discovery research | Recruit interview participants who match best-fit, not whoever responds first | "Our last research round was 70% non-best-fit — no wonder the insights pointed away from our positioning" |
+| Roadmap evaluation | Treat requests from outside the best-fit segment as signal, not as requirements | "Three enterprise prospects asked for SSO; none of them are best-fit. We'll note the pattern but not commit roadmap time" |
+| Sales qualification | Use best-fit criteria to disqualify fast and protect the team's focus | "If a prospect isn't in our best-fit profile, the rep can pass on them without escalation — we don't chase bad-fit revenue" |
+
+### Copy Patterns
+
+- "Our best-fit customer is [observable profile]. Everyone else is a bonus, not the plan — and not a roadmap driver."
+- "We win deals fast, expand accounts, and get referrals from [specific segment]. That's not a coincidence — that's where our differentiation pays off most."
+- "This request comes from outside our best-fit segment. We can listen, but we shouldn't reshape the roadmap for it."
+
+**Ethical boundary:** Be honest with non-best-fit prospects rather than selling them a product that won't deliver value. Closing bad-fit deals creates churn, support burden, and reference risk that costs more than the revenue gained.
 
 ---
 

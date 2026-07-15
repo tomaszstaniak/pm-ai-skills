@@ -44,6 +44,7 @@ Take the business outcome and ask whether a competitor could claim the same thin
 | "Analytics teams get answers in days instead of weeks" | Any fast pipeline tool could claim this | "Analytics teams get answers in days instead of weeks — specifically because our in-memory execution eliminates the checkpoint overhead that makes batch-based pipelines like [Competitor A] slow on iterative workloads" |
 | "Your security team reduces time spent on access reviews" | Most IAM tools claim faster reviews | "Your security team reduces time spent on access reviews by 70%, specifically because we automate the evidence-gathering step that other tools leave to the reviewer — the step that actually consumes most of the cycle time" |
 | "Developers can ship integrations without custom code" | Multiple platforms claim no-code integrations | "Developers ship integrations without custom code, including event-triggered workflows — the alternatives support event triggers only on their premium tier, which adds $X/month per integration at your volume" |
+| "Your engineering team can build integrations without workarounds" | Every vendor claims a flexible API | "The two alternatives require you to use their SDK, which limits integration patterns; ours is REST-based with full documentation and no undocumented rate limits" |
 
 ### Worksheet: Running the Full Process
 
@@ -99,6 +100,12 @@ Claims that name a business outcome but don't specify why you deliver it or how 
 ### The Competitor-Proof Test
 
 Read your differentiation statement out loud and ask: could a competitor paste this into their own pitch deck without changing a word? If yes, it's not differentiated. Run it through the comparison step again.
+
+### Copy Patterns for Delivering Differentiation
+
+- "What we do differently — and this is specific to how we've built the product — is…"
+- "The reason that matters compared to [alternative] is…"
+- "Most [category] tools solve [X]; we're the only ones that also solve [Y], which for companies in your situation means…"
 
 ## Building a Differentiation Statement Library
 

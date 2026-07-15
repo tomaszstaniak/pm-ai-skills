@@ -207,6 +207,10 @@ time from 2 weeks to 1 day."
 | 3 | Highlight: the single most useful concept or model | Quick retrieval of the key idea |
 | 4 | Summary: "This book's core argument is X; most useful framework is Y; apply when Z" | Deciding whether to revisit the full notes |
 
+### Meeting Notes
+
+Meeting notes are the exception to the "distill later" rule: apply Layer 1 during the meeting, then Layer 4 immediately after for key decisions — a 2-sentence summary of decisions and action items at the top, while context is freshest. Most meeting content is transient and never needs Layers 2-3.
+
 ---
 
 ## Common Mistakes in Progressive Summarization
@@ -219,6 +223,8 @@ time from 2 weeks to 1 day."
 | Skipping Layer 4 and going straight to Layer 5 | You lose the intermediate step of synthesis; your output becomes a patchwork of quotes instead of original thinking | Write the summary first; the act of summarizing in your own words is where insight happens |
 | Using progressive summarization on notes that don't need it | Not every note needs distillation; meeting logistics, action items, and transient information can stay at Layer 1 | Apply only to notes that contain insights, not to notes that contain tasks or logistics |
 | Never reaching Layer 5 | The system captures and distills but never produces output; knowledge doesn't become work product | For every major deliverable, deliberately pull from distilled notes; make assembly the default mode |
+
+**Ethical boundary:** Progressive summarization is for your own notes and legally obtained materials. Do not use it to compress and redistribute copyrighted content without appropriate licensing.
 
 ---
 

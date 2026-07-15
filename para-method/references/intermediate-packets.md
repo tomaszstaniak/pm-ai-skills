@@ -174,6 +174,16 @@ The most valuable moment for IP creation is when a project completes. This is wh
 | Alternatives considered | Solution comparison IPs; competitive analysis sections | 1-2 hours |
 | **Total** | | **5-9 hours saved on a 1-2 day deliverable** |
 
+### IP Strategy by Context
+
+| Context | IP Strategy | Compounding Effect |
+|---------|-------------|-------------------|
+| Quarterly strategy memos | Save each section as a separate IP after completion | Next quarter's memo starts 60% done — update the data, refine the narrative |
+| Board presentations | Template slides, evidence slides, and metric slides as separate IPs | Board deck assembly drops from 2 days to 4 hours |
+| PRDs | Standard sections (goals, success metrics, constraints, alternatives considered) as IPs | New PRDs reuse structure and often reuse content from related past PRDs |
+| Onboarding new team members | Create an IP collection: team norms, key decisions history, stakeholder map | Onboarding time drops from weeks to days |
+| Stakeholder pitches | Setup narrative, proof points, and objection responses as separate IPs | Pitch preparation becomes remixing, not rebuilding |
+
 ---
 
 ## Building an IP Library Over Time
@@ -208,6 +218,8 @@ The most valuable moment for IP creation is when a project completes. This is wh
 | Not adding context to IPs | "Pricing analysis" with no context about when, why, or for whom | Add a 1-2 sentence header: what this is, when it was created, and what it's useful for |
 | Hoarding IPs without using them | Library grows but output quality doesn't improve | Before starting any deliverable, search for relevant IPs first; make "check for existing IPs" the first step of any project |
 | Only saving your own work | Missing valuable frameworks, templates, and examples from others | Capture documents from others that pass the three capture criteria; attribute them properly |
+
+**Ethical boundary:** IPs from previous employers are not transferable unless they contain only your general knowledge and frameworks, not proprietary data, strategies, or confidential information.
 
 ---
 

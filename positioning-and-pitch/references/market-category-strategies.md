@@ -243,6 +243,26 @@ Your category strategy directly affects how you pitch:
 
 ---
 
+## Category Choice: PM Applications and Copy Patterns
+
+### Product Application Examples
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Roadmap planning | Map table-stakes features for the chosen category and close real gaps | "Buyers in the 'modern data platform' category expect lineage and governance — if we want this frame, we need both on the roadmap" |
+| Competitive analysis | Re-evaluate the competitive set whenever you consider a category shift | "If we reframe from 'CRM' to 'revenue platform,' our comparison set changes from Salesforce to a different list — does that help or hurt us?" |
+| Launch strategy | Decide whether to fit an existing category, dominate a niche, or create a new one before writing a single piece of launch copy | "We chose 'big fish, small pond' in vertical X — every launch asset reinforces that niche, not the broad category" |
+
+### Copy Patterns
+
+- "We're positioning in the [specific category] because that's where our differentiation reads as an advantage, not a gap."
+- "Table stakes for this category are [X, Y, Z]. We meet them. Our edge is [unique capability], which the category leaders don't have."
+- "We could call ourselves a [bigger category], but then we'd be compared to [stronger players] on features we don't lead on. The narrower frame helps us."
+
+**Ethical boundary:** Don't claim a category your product can't credibly deliver against. Buyers who arrive expecting category norms and find a different product feel misled, even if the underlying product is good.
+
+---
+
 ## Common Category Strategy Mistakes
 
 | Mistake | Why It Fails | Fix |

@@ -56,6 +56,25 @@ Project: Q2 Pricing Restructure
 | Group PM / Director | 8-12 active projects | More than 15 | Delegate: which projects should belong to your reports? |
 | VP Product | 5-7 strategic projects | More than 10 | Elevate: are you holding projects that should be delegated? |
 
+**Key insight:** Your active project list reveals your actual priorities, regardless of what you claim them to be. If "improve activation rate" is your stated top priority but it doesn't appear as a project, it's not actually a priority — it's a wish.
+
+### Product Applications
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Quarterly planning | Audit project list against stated strategic priorities | If 60% of your projects serve one initiative and 10% serve your "top priority," reallocate |
+| 1:1s with leadership | Share active project list as a transparency tool | "Here are my 7 active projects. I can add this request, but which one should I drop?" |
+| Capacity management | Use project count as a workload signal | More than 10-12 active projects is a sign of overcommitment |
+| Handoffs | A project folder contains everything needed to hand off work | New PM can pick up context without a weeks-long knowledge transfer |
+
+### Copy Patterns
+
+- "Project: [verb] [outcome] by [date]" — e.g., "Project: Ship onboarding redesign by April 1."
+- "Here are my N active projects — which should I drop to take this on?"
+- "Let me check the project folder before we rebuild context from scratch."
+
+**Ethical boundary:** Never use project categorization to hide work from stakeholders. The project list should be an honest reflection of where time goes, not a curated portfolio.
+
 ---
 
 ## Areas: Detailed Guide
@@ -93,6 +112,21 @@ These areas are common across PM roles, though the specific standards vary by le
 - Stakeholder communication
 - Data and analytics practice
 
+### Product Applications
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Role transitions | Areas change when responsibilities change | Promoted to group PM: "individual product quality" becomes "portfolio quality" |
+| Performance reviews | Areas map to the standards you're measured against | "These are my 8 areas of responsibility. Here's how I'm performing against each standard." |
+| Delegation | Clearly define which Areas transfer when delegating | "I'm handing the 'vendor relationships' area to you. Here's the folder with all context." |
+| Onboarding | New PMs inherit Area folders with accumulated context | Instead of tribal knowledge, the new PM gets a structured repository of standards and reference material |
+
+### Copy Patterns
+
+- "Area: [responsibility] — standard: [measurable bar]."
+- "This isn't a project — it's an ongoing area. What's the standard we're holding it to?"
+- "Which of my areas does this belong to?"
+
 ---
 
 ## Resources: Detailed Guide
@@ -123,9 +157,27 @@ Resources should reflect genuine, active interests — not aspirational ones. Th
 - Behavioral psychology and user research methods
 - Go-to-market strategies
 
+### Product Applications
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Career development | Resources reflect your intellectual interests and growth edges | A PM interested in transitioning to platform PM keeps a "Platform Thinking" resource |
+| Innovation inputs | Resources become project inputs when the timing is right | "API-first architecture" resource feeds the next platform strategy project |
+| Mentoring | Share curated resource collections with junior PMs | "Here's my 'Stakeholder Management' resource — the distilled highlights from 15 articles and 3 books" |
+
+### Copy Patterns
+
+- "This is interesting but not tied to any active project — file it as a Resource and move on."
+- "Pull the Resource on [topic] into the project folder; that's where it'll actually get used."
+- "If I'm not genuinely interested in this anymore, it goes to Archives."
+
 ---
 
 ## Archives: Detailed Guide
+
+### The Kitchen Cleanup Metaphor
+
+Forte's Kitchen Cleanup metaphor: organize by activity, not taxonomy. What you're cooking now is on the counter (Projects), staples are at eye level (Areas), specialty ingredients on higher shelves (Resources), expired or seasonal items in storage (Archives). Archives are not a trash can — they're a knowledge reserve, and the first place to look when starting a new project is the Archive of similar past projects. That's where compounding knowledge actually lives.
 
 ### What Goes to Archives
 
@@ -147,6 +199,20 @@ Archives should be organized enough that you can find past material when a new p
 1. **Search** — Most note-taking tools have search that covers archived material
 2. **Browse by project name** — If you remember the project, navigate to its archived folder
 3. **Progressive summarization** — Layer 4 summaries on key archived notes make scanning fast
+
+### Product Applications
+
+| Context | Application | Example |
+|---------|-------------|---------|
+| Retrospectives | Archive the project folder with retro notes included | Future PMs running similar projects can review what worked and what didn't |
+| Pattern recognition | Review Archives when starting similar projects | Before a new pricing project, review the archived "Q3 Pricing Restructure" folder |
+| Audit trail | Archives provide decision history for compliance or leadership questions | "Why did we choose approach X?" — the archived project folder has the analysis and decision memo |
+
+### Copy Patterns
+
+- "Before I start, let me check Archives for a similar past project."
+- "This project is done — archive the folder and extract the reusable packets first."
+- "I haven't touched this in months; archive it and trust I can search later."
 
 ---
 

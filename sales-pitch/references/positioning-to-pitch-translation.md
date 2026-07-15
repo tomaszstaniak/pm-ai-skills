@@ -159,6 +159,8 @@ If you've done positioning work properly, you can derive a 2-3 question qualific
 
 The answers tell you immediately whether this buyer fits the profile for which your differentiation is actually meaningful.
 
+**Copy pattern:** "The companies that get the most value from us are specifically those who [best-fit criteria] — which is why I was interested to talk with you, because you match that profile…"
+
 ---
 
 ## Component 5: Market Category → Setup Framing
@@ -203,6 +205,10 @@ A common mistake is introducing the product before the Setup is complete. The In
 
 **Right:**
 > "[Full Setup] … That's the gap we built to address. Acme is a buyer enablement platform — a dedicated space where the deal lives during the buying process, accessible to the full buying team, with full visibility for the seller into who's engaging with what."
+
+**Copy pattern:** "We sit in the [category] space, which means you're probably also looking at [alternatives]. Let me share how we think about where they each fit…"
+
+**Ethical boundary:** Do not use positioning to artificially inflate your market category to seem larger or more established than you are. Buyers who discover the category inflation — through analyst research or competitor conversations — lose confidence in everything else you've told them.
 
 ---
 

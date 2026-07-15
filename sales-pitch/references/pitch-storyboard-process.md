@@ -8,6 +8,19 @@ Most pitches fail at the whiteboard stage, not the presentation stage. When team
 
 A storyboard session forces those arguments into the open early, when they're cheap to resolve. The document can hold full scripts, conversation frameworks, alternative language, and dissenting opinions in ways a slide deck cannot. Only once the narrative decisions are stable does it make sense to compress them into a visual format.
 
+## The Eight Steps at a Glance
+
+| Step | Component | Questions to Answer | Format |
+|------|-----------|-------------------|--------|
+| 1 | Market Insight | What have we learned that buyers don't already know? Is it specific? Does it connect to their current situation? | Script |
+| 2 | Alternatives | What are the realistic options? What are honest trade-offs of each? Where does "do nothing" belong? | Conversation framework |
+| 3 | Perfect World | What would an ideal solution look like for a buyer in this situation? What criteria should they care about? | Conversation prompts |
+| 4 | Introduction | Where do we sit in the landscape we just described? What makes this the right moment to introduce our product? | Script |
+| 5 | Differentiated Value | What do we uniquely deliver, for whom, compared to what? Has each claim passed the "so what / compared to what" test? | Script + visual |
+| 6 | Proof | What evidence matches this buyer's context? Which format — case study, demo, data, reference — fits best? | Slide + demo |
+| 7 | Objections | What concerns will this buyer raise? What are the honest, complete responses? | Conversation framework |
+| 8 | The Ask | What is the specific next step? Is it clear, low-friction, and appropriately sized for where we are? | Script |
+
 ## Who Should Be in the Room
 
 | Role | What They Contribute | What to Watch For |
@@ -154,6 +167,14 @@ Define the specific next step this pitch is designed to produce. One step. Be pr
 | First meeting | "Let's stay in touch" | "Can we schedule a technical session with your team for next Thursday? I'll send a prep guide ahead of time." |
 | After demo | "Let me know if you have questions" | "The logical next step is a reference call with a customer in your situation — I'd like to set that up for this week if you're open to it." |
 | Late-stage evaluation | "We hope to earn your business" | "To move to contract, we need sign-off from you and your security lead. Can we get both on a call before the 15th?" |
+
+### Cross-Cutting Facilitation Prompts
+
+Use these at any point in the session to keep the room honest:
+
+- "Before we draft anything, what have we actually learned about this market that a buyer wouldn't already know?"
+- "If a competitor read this differentiated value claim out loud, would they laugh? If not, it's not differentiated yet."
+- "Who is the buyer this pitch is for, in one sentence — and what would make them say 'that's exactly us'?"
 
 ## Testing the Storyboard Before Any Prospect Sees It
 
