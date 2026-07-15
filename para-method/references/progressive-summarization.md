@@ -22,9 +22,7 @@ Progressive Summarization resolves this by keeping all the detail while layering
 
 ## The Five Layers in Detail
 
-### Layer 0: Original Source
-
-The unmodified source material — an article, a transcript, a document. This lives outside your Second Brain in most cases (the original website, the original PDF, the Slack thread). Your Second Brain doesn't need to contain copies of everything; it contains your processed versions.
+*A note on the original source (sometimes called "Layer 0"): the unmodified source material — an article, a transcript, a document — lives outside your Second Brain in most cases (the original website, the original PDF, the Slack thread). Your Second Brain doesn't need to contain copies of everything; it contains your processed versions. The five layers below all operate on that processed material.*
 
 ### Layer 1: Captured Notes
 

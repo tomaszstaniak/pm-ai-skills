@@ -66,17 +66,7 @@ In the pitch, these are the *input* to differentiated value — not the thing yo
 
 ### The Two-Question Test
 
-Run every capability through these two questions before it appears in a pitch:
-
-1. **"So what?"** — Push from the capability to the business outcome it creates. Keep pushing until you reach something a CFO or VP would care about.
-2. **"Compared to what?"** — Confirm the outcome is genuinely distinctive. If the answer is "compared to doing it the old way," that's usually not differentiated enough. If the answer is "compared to how Alternative X handles this specific scenario," you're closer.
-
-| Capability | After "So What?" | After "Compared to What?" | Pitch-Ready? |
-|---|---|---|---|
-| "Real-time data sync" | "Decisions are made on current data, not yesterday's export" | "Competitors sync on 15-minute intervals; for live inventory management that means your picks are based on stale counts" | Yes — specific and comparative |
-| "ISO 27001 certified" | "You can pass security reviews faster" | "You can pass reviews without providing additional documentation — most alternatives require you to complete a vendor security questionnaire during every procurement cycle" | Depends — only differentiating if your segment actually experiences this friction |
-| "AI-powered" | "Things happen automatically instead of manually" | This is not yet comparative — every competitor also claims AI | No — keep asking "so what?" until you reach a specific automated outcome; keep asking "compared to what?" until you reach a specific alternative |
-| "Dedicated onboarding team" | "You reach your first workflow in 8 days instead of 6 weeks" | "Self-serve onboarding from our two main competitors averages 6 weeks to first live workflow, because the customer handles data migration; our team handles it, so your team doesn't need to be involved" | Yes — specific outcome, specific comparison |
+Run every capability through the "so what?" and "compared to what?" test before it appears in a pitch — see [differentiated-value-development.md](differentiated-value-development.md) for the full mechanics, worked tables, and worksheets.
 
 ### Worked Example: Internal Tools Platform for Engineering Teams
 

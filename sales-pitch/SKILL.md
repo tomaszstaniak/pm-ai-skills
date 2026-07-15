@@ -49,6 +49,8 @@ The core architecture of every sales conversation is a Setup followed by a Follo
 
 **Why it works:** The Setup creates the mental scaffolding that makes your Follow-Through land. Without context, your differentiation sounds like marketing copy. With it, it sounds like a logical conclusion the buyer reached themselves.
 
+The four sections that follow — Market Insight, Alternatives, Differentiated Value, and Proof — cover the highest-leverage components; the remaining four (Perfect World, Introduction, Objection Handling, The Ask) are covered in the reference file.
+
 **Key insights:**
 - The Setup can run 90 seconds for educated buyers or extend into deep discovery for complex environments — time is not the measure, alignment is. It's complete when the buyer can summarize the market dynamics, the trade-offs, and their own ideal criteria back to you
 - Rushing into Follow-Through before Setup alignment destroys the entire effect — buyers who haven't formed an evaluation framework can't appreciate your differentiation

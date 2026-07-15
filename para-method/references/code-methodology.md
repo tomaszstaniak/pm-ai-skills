@@ -106,34 +106,7 @@ Forte borrows this concept from environmental psychology: high ceilings and gran
 
 ### Cross-Platform Consistency
 
-PARA should be identical across every tool you use. The same four top-level categories, the same project names, the same organizational logic.
-
-**Why this matters for PMs:**
-
-PMs typically use 5-10 tools daily: notes app, file storage, task manager, email, Slack, documentation platform, analytics tools, design tools. If each tool has its own organizational logic, you spend cognitive cycles translating between systems. PARA provides a universal structure.
-
-**Implementation pattern:**
-
-```
-NOTES APP (Notion/Obsidian/etc.)    FILE STORAGE (Google Drive/etc.)
-├── Projects                         ├── Projects
-│   ├── Q2 Strategy Memo             │   ├── Q2 Strategy Memo
-│   └── Pricing Redesign             │   └── Pricing Redesign
-├── Areas                            ├── Areas
-│   ├── Product Quality              │   ├── Product Quality
-│   └── Team Operations              │   └── Team Operations
-├── Resources                        ├── Resources
-│   └── Pricing Psychology           │   └── Pricing Psychology
-└── Archives                         └── Archives
-
-TASK MANAGER (Linear/Asana/etc.)    EMAIL LABELS
-├── Projects                         ├── Projects
-│   ├── Q2 Strategy Memo             │   ├── Q2 Strategy Memo
-│   └── Pricing Redesign             │   └── Pricing Redesign
-├── Areas                            ├── Areas
-└── (Resources/Archives rarely       └── Archive
-     needed in task manager)
-```
+PARA should be identical across every tool you use — the same four top-level categories, the same project names, the same organizational logic, so you never spend cognitive cycles translating between systems. The full principle, per-platform implementation table, and setup steps are covered in [digital-organization.md](digital-organization.md).
 
 ### Organizing Decisions for Common PM Scenarios
 
@@ -205,7 +178,7 @@ This is the most important and most neglected step. The entire Second Brain exis
 | Strategy memo | Start with blank page; research from scratch; 2-3 days | Assemble from IPs: distilled customer insights, competitive analysis, strategic frameworks; 4-6 hours |
 | Board presentation | Rebuild narrative each quarter; hunt for data; 1-2 days | Update existing IP template; pull in new data from project folders; 2-4 hours |
 | PRD | Write from scratch; re-derive context; 1-2 days | Reuse standard sections (IPs); pull from active project research folder; 3-5 hours |
-| Stakeholder pitch | Reconstruct argument each time; find supporting evidence; half day | Remix Setup narrative (IP) with current project evidence; 1-2 hours |
+| Stakeholder pitch | Reconstruct argument each time; find supporting evidence; half day | Remix a pitch narrative (IP) with current project evidence; 1-2 hours |
 | Team onboarding doc | Compile from memory and scattered docs; full day | Assemble from Area folders: team norms, decision history, stakeholder map IPs; 2-3 hours |
 | External content (blog posts, conference talks, thought leadership) | Generate ideas and evidence from scratch | Resources folder provides curated raw material; progressive summarization surfaces the best ideas |
 

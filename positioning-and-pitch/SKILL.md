@@ -116,17 +116,7 @@ See: [references/differentiated-value-development.md](references/differentiated-
 
 ## Proof and Validation
 
-Positioning claims without evidence are just opinions. Build a portfolio of proof across contexts:
-
-| Proof Type | PM Context | How to Build It |
-|------------|-----------|-----------------|
-| Customer evidence | Win/loss interviews, usage data, testimonials | Systematic win/loss analysis focused on why customers chose you over specific alternatives |
-| Quantified outcomes | Business metrics from deployed customers | Partner with customer success to collect before/after data from best-fit customers |
-| Product demonstration | Live or recorded demos of differentiated capabilities | Build demo scenarios that highlight what alternatives can't do — not a feature tour |
-| Competitive validation | Third-party comparisons, analyst coverage, review sites | Track where analysts and review sites place you; correct mispositionings proactively |
-| Internal alignment | Consistent story across all customer touchpoints | Test whether sales, marketing, and CS articulate the same differentiated value |
-
-**Demos should prove your positioning is true, not show everything the product does:** set up the problem (market insight), show how alternatives handle it (their limitations), then demonstrate your unique capability producing differentiated value the audience can see.
+Positioning claims without evidence are just opinions. Build a portfolio of proof — customer evidence, quantified outcomes, demos, competitive validation, and internal alignment — and match it to the audience: metrics and win rates for stakeholders, profile-matched case studies for buyers, win/loss data for cross-functional teams. Structure demos around your differentiation rather than as feature tours.
 
 See: [references/positioning-to-pitch-translation.md](references/positioning-to-pitch-translation.md) for building proof per audience — stakeholder pitches, buyer conversations, and cross-functional alignment.
 

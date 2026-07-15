@@ -157,7 +157,7 @@ The most valuable moment for IP creation is when a project completes. This is wh
 
 | Section | IPs That Contribute | Time Saved |
 |---------|-------------------|------------|
-| Narrative arc | Past board deck structure; Setup narrative IP | 2-3 hours |
+| Narrative arc | Past board deck structure; opening narrative IP | 2-3 hours |
 | Product updates | Release notes summaries; metric dashboards | 1-2 hours |
 | Strategic direction | Strategy memo sections (reused from above) | 2-3 hours |
 | Evidence and proof | Customer quotes library; metric snapshots | 1-2 hours |
@@ -182,7 +182,7 @@ The most valuable moment for IP creation is when a project completes. This is wh
 | Board presentations | Template slides, evidence slides, and metric slides as separate IPs | Board deck assembly drops from 2 days to 4 hours |
 | PRDs | Standard sections (goals, success metrics, constraints, alternatives considered) as IPs | New PRDs reuse structure and often reuse content from related past PRDs |
 | Onboarding new team members | Create an IP collection: team norms, key decisions history, stakeholder map | Onboarding time drops from weeks to days |
-| Stakeholder pitches | Setup narrative, proof points, and objection responses as separate IPs | Pitch preparation becomes remixing, not rebuilding |
+| Stakeholder pitches | Pitch opening narrative, proof points, and objection responses as separate IPs | Pitch preparation becomes remixing, not rebuilding |
 
 ---
 

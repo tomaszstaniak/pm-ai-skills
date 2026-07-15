@@ -40,7 +40,7 @@ Positioning is not brainstormed in a meeting — it's derived through a sequenti
 
 Distribute 1 week before the workshop:
 
-- Brief on the five components of positioning (link to the main skill file)
+- Brief on the [five components of positioning](five-components-of-positioning.md)
 - Customer interview summaries or win/loss data relevant to positioning
 - Current competitive landscape overview
 - Prompt: "Come prepared to answer: what would our best customers do if we didn't exist?"

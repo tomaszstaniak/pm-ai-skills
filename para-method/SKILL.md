@@ -110,7 +110,7 @@ PROJECT   Is this an ongoing responsibility
                             in another category.
 ```
 
-The most common error is skipping the first question. Information relevant to an active project goes in that project's folder — even if it "belongs" to a topic. Actionability trumps taxonomy. For categorization guidance by information type (interview notes, competitive intel, strategy docs, technical specs) and per-category mistakes, see: [references/para-categories.md](references/para-categories.md)
+The most common error is skipping the first question. Information relevant to an active project goes in that project's folder — even if it "belongs" to a topic. Actionability trumps taxonomy. For how common product team artifacts (PRDs, strategy memos, interview notes, competitive analyses, OKR docs) map to PARA categories and per-category mistakes, see: [references/para-categories.md](references/para-categories.md)
 
 ## System Maintenance: Reviews
 

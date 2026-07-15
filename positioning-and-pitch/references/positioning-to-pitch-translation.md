@@ -201,11 +201,7 @@ Market category choice determines two things in the pitch: (1) how you describe 
 
 ### Category Type Affects Setup Depth
 
-| Category Type | Setup Required | Market Insight Focus | Introduction Approach |
-|--------------|---------------|---------------------|---------------------|
-| Established category | Less — audience has context | "Here's what's changing in [category]…" | "We're a [category] that [differentiator]" |
-| Niche within a category | Moderate | "[Niche] faces a specific version of this problem…" | "We're a [category] built specifically for [niche]" |
-| New category | Substantial | "There's a gap between [category A] and [category B]…" | "We're a [new category] — here's what that means" |
+The more established your category, the less setup the pitch needs — established categories need only moderate framing, niches need a niche-specific problem statement, and new categories need substantial education before the product introduction lands. See the "Category Strategy and Pitch Implications" table in [market-category-strategies.md](market-category-strategies.md) for the full breakdown of setup depth, market insight focus, and introduction approach per strategy.
 
 ### Worked Example: New Category in a Board Context
 

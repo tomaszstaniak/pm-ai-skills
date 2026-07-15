@@ -81,18 +81,7 @@ With a completed Setup, the same statement lands differently: the buyer has alre
 | Build in-house | Maximum customization, no vendor dependency | Ongoing maintenance, opportunity cost, time to value | Orgs with specific regulatory or integration requirements that commercial products can't meet |
 | Do nothing / status quo | Known, stable, no migration risk | The specific, compounding cost of staying here | No one — frame this as an active choice, not a neutral default |
 
-**The "do nothing" problem:** Most pitches treat inaction as the absence of a decision. It's actually the most common competitor you face, and it wins 40–60% of the time. Name it as a choice. Quantify what it costs. Make staying put feel like a real option with real consequences — not a safe harbor.
-
-> "The fourth option — which is always on the table and worth naming — is to stay with what you have. That's a legitimate choice, and I'm not going to pretend it isn't. What I will say is that staying has a cost, and in your situation that cost is probably [specific consequence]. The question is whether that cost is acceptable relative to the effort of change. That's genuinely a judgment call — it depends on how much the current situation is actually affecting [business outcome]. What's your read on that?"
-
-**Anti-patterns:**
-
-| Anti-pattern | Why it backfires | Fix |
-|-------------|-----------------|-----|
-| Presenting only one or two alternatives (and not the strongest competitor) | Buyers know more alternatives exist; omission signals bias | Map every real option; include the competitor you most fear |
-| Characterizing alternatives only by their weaknesses | Buyers who have already shortlisted a competitor feel their judgment is being dismissed | Acknowledge genuine strengths first, then trade-offs |
-| Skipping "do nothing" | Your largest competitor goes unaddressed | Treat status quo as a named option with quantified costs |
-| Using your own scoring rubric to rank alternatives | Buyers can see when the criteria were designed to produce a winner | Frame by trade-offs, not scores — let buyers apply their own weighting |
+See [competitive-alternatives-framing.md](competitive-alternatives-framing.md) for depth: the four-alternative-type taxonomy, handling "do nothing" as your fiercest competitor, honest-strength-then-trade-off framing, and the anti-patterns that destroy credibility.
 
 ---
 
@@ -139,21 +128,14 @@ With a completed Setup, the same statement lands differently: the buyer has alre
 
 **Purpose:** State the specific business outcomes only you can deliver, in the context of the alternatives the buyer already understands.
 
-**The two-test filter for every claim:**
-- *"So what?"* — Push from feature to outcome. Keep pushing until you reach something the buyer's CFO or board would care about.
-- *"Compared to what?"* — Name the alternative the claim beats, and why that comparison holds.
+**Timing:** The core of the Follow-Through — typically 5–10 minutes in a discovery meeting, tightened to a single deeply substantiated claim for executive audiences.
 
-If a claim survives both tests and still sounds like something a competitor could say without lying, cut it.
-
-**Template:**
-
-| Capability | So what? | Compared to what? | Resulting claim |
-|-----------|----------|------------------|----------------|
-| Real-time pipeline visibility | Sales managers catch at-risk deals before forecast commits | CRM-only teams see deal status 24 hours late, after the rep updates | "Unlike CRM-based forecasting, which reflects what reps reported yesterday, our pipeline view shows deal health signals as they change — so your managers know before the weekly call, not during it." |
-| No-code workflow builder | Non-technical teams can automate their own processes | Competing platforms require developer involvement for workflow changes | "Any ops manager can build or modify workflows without opening a ticket. On [Competitor], that same change goes into an engineering queue." |
+**Template:** Every claim should be comparative and outcome-based — "Unlike [alternative], which [limitation], our [capability] means [business outcome the buyer's CFO would care about]."
 
 **Worked example — developer tooling, head of platform engineering:**
 > "The thing we do that's genuinely different from what you'd get with [Competitor X] is our policy-as-code layer. In their model, security policies live in the platform UI and get manually maintained by your security team. In ours, policies are versioned in your repository alongside the code they govern. The practical consequence: your security posture is auditable the same way your code is auditable, and your platform team doesn't have to chase policy drift across environments. For an org running twelve microservices with separate deployment pipelines, that's the difference between a security review that takes a week and one that takes an afternoon."
+
+See [differentiated-value-development.md](differentiated-value-development.md) for depth: the "so what / compared to what" two-question test, worksheets for turning capabilities into claims, and how to identify and cut weak claims.
 
 ---
 
@@ -161,25 +143,16 @@ If a claim survives both tests and still sounds like something a competitor coul
 
 **Purpose:** Reduce the buyer's perceived risk by showing that your claims hold in situations that look like theirs.
 
-**Proof selection matrix:**
+**Proof selection matrix** — match proof format to the buyer's profile and evaluation stage:
 
-| Buyer profile | Best proof format | Caution |
+| Buyer profile / stage | Best proof format | Caution |
 |--------------|-----------------|---------|
 | Early in evaluation, unfamiliar with category | Market data, peer benchmarks, analyst validation | Don't lead with case studies that assume category literacy |
-| Mid-evaluation, comparing options | Customer case study matched by industry and use case | Mismatched case studies (wrong size, wrong industry) raise doubt rather than confidence |
-| Late-stage, technical evaluation in progress | Live demo proving specific differentiation claims, reference calls | Demo must prove the specific thing you claimed; feature tours are not proof |
-| Executive sponsor, risk-focused | Quantified outcome data with clear methodology, named customer willing to speak | Unverifiable numbers are worse than no numbers |
+| Mid-evaluation, comparing options | Customer case study matched by industry, size, and use case | Mismatched case studies raise doubt rather than confidence |
+| Late-stage, technical evaluation in progress | Live demo proving specific differentiation claims, plus reference calls | Demo must prove the specific thing you claimed — a feature tour is not proof; choose references who match the buyer's situation and prepare them for likely questions |
+| Executive sponsor, risk-focused | Quantified outcome data with defensible methodology, named customer willing to speak | Unverifiable numbers are worse than no numbers; aggregate figures without context feel fabricated |
 | Champion building internal case | One-page evidence summary they can share without you in the room | Must be self-explanatory and not require your narration to make sense |
-
-**Proof type applications:**
-
-| Proof Type | Best Used When | Caution |
-|------------|---------------|---------|
-| Customer case study | Buyer is evaluating fit for their specific situation | Must match industry, size, and use case — mismatched case studies raise doubts |
-| Quantified outcome data | Buyer is building an internal business case | Ensure the methodology is defensible; aggregate numbers without context feel fabricated |
-| Technical demo | Buyer's evaluators need to see capability, not hear about it | Demo must prove differentiation, not just feature breadth — a feature tour without context is not proof |
-| Reference call | Buyer has specific concerns they need validated by a peer | Choose references who match the buyer's situation; prepare them for the likely questions |
-| Third-party validation | Buyer distrusts vendor-produced evidence | Analyst coverage, review site ratings, and independent benchmarks carry credibility vendor content can't |
+| Buyer distrusts vendor-produced evidence (any stage) | Third-party validation — analyst coverage, review site ratings, independent benchmarks | Carries credibility vendor content can't, but only if genuinely independent |
 
 **Proof statement template:**
 > "Let me show you what this actually looked like for [company type that matches the buyer]. They were in a similar situation — [brief framing that mirrors the buyer's context]. Here's what they were dealing with: [the problem]. Here's what changed after implementation: [specific, quantified outcome]. And here's the part that's directly relevant to [the specific concern raised in this conversation]: [the piece of evidence that addresses that concern specifically]."

@@ -149,31 +149,9 @@ because [unique capability that makes it possible],
 which means [business impact] compared to [most common alternative].
 ```
 
-### Template: Differentiated Value Development
+### Developing the Statement
 
-| Field | Your Input |
-|-------|-----------|
-| Starting capability (from unique capabilities audit) | |
-| After "so what?" round 1 | |
-| After "so what?" round 2 | |
-| After "so what?" round 3 (stop at business outcome) | |
-| Primary comparison (which alternative, how specifically?) | |
-| Buyer profile where this matters most | |
-| Final differentiated value statement | |
-| Can a competitor claim this verbatim? (If yes, iterate) | |
-
-### Worked Example: Enterprise Search Platform
-
-| Field | Content |
-|-------|---------|
-| Starting capability | Federated search across 40+ enterprise data sources without data duplication |
-| So what? (1) | Users find information across all company tools from one search bar |
-| So what? (2) | Knowledge workers spend less time switching between apps to find what they need |
-| So what? (3) | The time from "I need information" to "I have the answer" drops from 20+ minutes of searching across multiple tools to under 30 seconds |
-| Primary comparison | Competitors (Elastic workplace search, Coveo) require data indexing and duplication into their system — which means connectors break when source APIs change, and compliance teams flag the data copy as a risk |
-| Buyer profile | Companies with 1,000+ employees using 10+ SaaS tools, where information fragmentation is actively slowing decision-making |
-| Final statement | "For companies where knowledge workers are searching across 10+ tools to find what they need, we're the only enterprise search platform that queries data in place — no indexing, no data duplication. That means search results are always current, compliance never flags a secondary data store, and you're live in days instead of months. Alternatives that index your data require 6-12 weeks of connector setup and break every time a source API changes." |
-| Competitor-proof? | Yes — architectural decision (in-place federation vs. indexing) that competitors cannot claim without rebuilding their core |
+To fill in this structure, run each candidate capability through the "so what?" and "compared to what?" process: push from capability to business outcome, name the specific alternative you beat, and check whether a competitor could claim the sentence verbatim. The full worksheet template and a complete Enterprise Search Platform worked example are in [differentiated-value-development.md](differentiated-value-development.md).
 
 ### PM Application: Differentiated Value as Roadmap Filter
 
